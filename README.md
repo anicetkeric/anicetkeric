@@ -1,4 +1,4 @@
-### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm [Anicet Eric](https://github.com/anicetkeric/anicetkeric) !
 
 <!--
 **anicetkeric/anicetkeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Latest posts
 <!-- POST:START -->
+- [Spring boot Authentication server using AWS cognito](https://boottechnologies-ci.medium.com/spring-boot-authentication-server-using-aws-cognito-91da69fc1bd4)
 - [Spring Security — OAuth2 — MongoDB](https://boottechnologies-ci.medium.com/spring-security-oauth2-mongodb-b62ccbf1f18c)
 - [Spring Batch and MongoDB — Reading and Writing from Excel file](https://boottechnologies-ci.medium.com/spring-batch-and-mongodb-reading-and-writing-from-excel-file-fa4f55ded7b8)
 - [Spring Data: Easy MongoDB Migration Using Mongock](https://dzone.com/articles/spring-data-easy-mongodb-migration-using-mongock)

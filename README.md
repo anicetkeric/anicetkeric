@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Latest posts
 <!-- POST:START -->
+- [Integration Testing on Spring boot microservice with Wiremock and JUnit5](https://boottechnologies-ci.medium.com/integration-testing-on-spring-boot-microservice-with-wiremock-and-junit5-d2c8a77d750d)
 - [Spring Boot API CRUD with AWS DynamoDB](https://boottechnologies-ci.medium.com/spring-boot-api-crud-with-aws-dynamodb-377e4d5d5a76)
 - [Spring boot Authentication server using AWS cognito](https://boottechnologies-ci.medium.com/spring-boot-authentication-server-using-aws-cognito-91da69fc1bd4)
 - [Spring Security — OAuth2 — MongoDB](https://boottechnologies-ci.medium.com/spring-security-oauth2-mongodb-b62ccbf1f18c)

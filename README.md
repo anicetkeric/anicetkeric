@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Latest posts
 <!-- POST:START -->
+- [Spring Data R2DBC with PostgreSQL Database on Amazon RDS](https://boottechnologies-ci.medium.com/spring-data-r2dbc-with-postgresql-database-on-amazon-rds-71864ab9af38)
 - [Securing Spring Boot API using Apache Shiro](https://boottechnologies-ci.medium.com/securing-spring-boot-api-using-apache-shiro-1aa204afcb32)
 - [Spring Cloud Gateway — Securing Services with API Key](https://boottechnologies-ci.medium.com/spring-cloud-gateway-securing-services-with-api-key-9c39836fc097)
 - [Integration Testing on Spring boot microservice with Wiremock and JUnit5](https://boottechnologies-ci.medium.com/integration-testing-on-spring-boot-microservice-with-wiremock-and-junit5-d2c8a77d750d)

@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Latest posts
 <!-- POST:START -->
+- [Spring WebFlux and Spring Data Redis Reactive](https://boottechnologies-ci.medium.com/spring-webflux-and-spring-data-redis-reactive-30d9ce11f92b)
 - [Spring Boot Webflux MongoDB multi-tenancy implementation](https://boottechnologies-ci.medium.com/spring-boot-webflux-mongodb-multi-tenancy-implementation-7d9d8ad1c234)
 - [Spring Data R2DBC with PostgreSQL Database on Amazon RDS](https://boottechnologies-ci.medium.com/spring-data-r2dbc-with-postgresql-database-on-amazon-rds-71864ab9af38)
 - [Securing Spring Boot API using Apache Shiro](https://boottechnologies-ci.medium.com/securing-spring-boot-api-using-apache-shiro-1aa204afcb32)

@@ -1,3 +1,7 @@
+<h1 align="center">Hi there 👋, I'm Eric Anicet</h1>
+<h3 align="center">Welcome to my GitHub!!!</h3>
+
+
 ### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm [Anicet Eric](https://github.com/anicetkeric/anicetkeric) !
 
 <!--

@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        #triggers the workflow every day at 5:30 and 17:30 UTC
+        #triggers the workflow every day at 5:30 and 20:30 UTC
         - cron: '30 5,20 * * *'
 jobs: 
     update-readme-with-blog: 

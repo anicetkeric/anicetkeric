@@ -1,8 +1,24 @@
 <h1 align="center">Hi there 👋, I'm Eric Anicet</h1>
 <h3 align="center">Welcome to my GitHub!!!</h3>
+<p align="center">I'm Software Engineer </p>
 
 
-### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm [Anicet Eric](https://github.com/anicetkeric/anicetkeric) !
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/AnicetKEric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yyy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eric-anicet-kouame-49029577/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghhj" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7968003/anicetkeric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ggg" height="30" width="40" /></a>
+<a href="https://medium.com/@boottechnologies-ci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@boottechnologies-ci" height="30" width="40" /></a>
+</p>
+
+
+
+
 
 <!--
 **anicetkeric/anicetkeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,6 +10,12 @@
 - [Spring WebFlux Rest API Global exception handling](https://boottechnologies-ci.medium.com/spring-webflux-rest-api-global-exception-handling-278f4095e45b?source=rss-48481e69a62f------2)
 - [Spring WebFlux and Spring Data Redis Reactive](https://boottechnologies-ci.medium.com/spring-webflux-and-spring-data-redis-reactive-30d9ce11f92b?source=rss-48481e69a62f------2)
 - [Spring Boot Webflux MongoDB multi-tenancy implementation](https://boottechnologies-ci.medium.com/spring-boot-webflux-mongodb-multi-tenancy-implementation-7d9d8ad1c234?source=rss-48481e69a62f------2)
+- [Spring Data R2DBC with PostgreSQL Database on Amazon RDS](https://boottechnologies-ci.medium.com/spring-data-r2dbc-with-postgresql-database-on-amazon-rds-71864ab9af38?source=rss-48481e69a62f------2)
+- [Securing Spring Boot API using Apache Shiro](https://boottechnologies-ci.medium.com/securing-spring-boot-api-using-apache-shiro-1aa204afcb32?source=rss-48481e69a62f------2)
+- [Spring Cloud Gateway — Securing Services with API Key](https://blog.devgenius.io/spring-cloud-gateway-securing-services-with-api-key-9c39836fc097?source=rss-48481e69a62f------2)
+- [Integration Testing on Spring boot microservice with Wiremock and JUnit5](https://boottechnologies-ci.medium.com/integration-testing-on-spring-boot-microservice-with-wiremock-and-junit5-d2c8a77d750d?source=rss-48481e69a62f------2)
+- [Multi-Tenancy architecture using AWS Cognito : Part 2](https://boottechnologies-ci.medium.com/multi-tenancy-architecture-using-aws-cognito-part-2-a1bc468d3812?source=rss-48481e69a62f------2)
+- [Multi-Tenancy architecture using AWS Cognito : Part 1](https://boottechnologies-ci.medium.com/multi-tenancy-architecture-using-aws-cognito-part-1-ad39b011c22?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Eric Anicet</h1>
 <h3 align="center">Welcome to my GitHub!!!</h3>
-<p align="center">I'm Software Engineer </p>
+<p align="center">I'm Software Engineer <br/> I am currently living and working in Madrid, Spain.</p>
 
 
 

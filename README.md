@@ -6,7 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring WebFlux Security OTP Email with MongoDB and Flutter 1/2](https://boottechnologies-ci.medium.com/spring-webflux-security-otp-email-with-mongodb-and-flutter-1-2-f73e1d94ec7a?source=rss-48481e69a62f------2)
+- [Spring WebFlux Security OTP Email with MongoDB and Flutter 1/2](https://blog.devgenius.io/spring-webflux-security-otp-email-with-mongodb-and-flutter-1-2-f73e1d94ec7a?source=rss-48481e69a62f------2)
 - [Automate Angular SPA application deployment to Amazon S3 using GitHub Actions](https://levelup.gitconnected.com/automate-angular-spa-application-deployment-to-amazon-s3-using-github-actions-eca72bdd6dda?source=rss-48481e69a62f------2)
 - [Spring WebFlux Rest API Global exception handling](https://boottechnologies-ci.medium.com/spring-webflux-rest-api-global-exception-handling-278f4095e45b?source=rss-48481e69a62f------2)
 - [Spring WebFlux and Spring Data Redis Reactive](https://boottechnologies-ci.medium.com/spring-webflux-and-spring-data-redis-reactive-30d9ce11f92b?source=rss-48481e69a62f------2)

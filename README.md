@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [API integration testing using Postman, Newman, and Jenkins Pipeline](https://boottechnologies-ci.medium.com/api-integration-testing-using-postman-newman-and-jenkins-pipeline-171145e91353?source=rss-48481e69a62f------2)
 - [Spring Boot Rest API with MyBatis and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-mybatis-and-postgresql-4f0b35497482?source=rss-48481e69a62f------2)
 - [Spring WebFlux Security OTP Email with MongoDB and Flutter 2/2](https://blog.devgenius.io/spring-webflux-security-otp-email-with-mongodb-and-flutter-2-2-6be473576f16?source=rss-48481e69a62f------2)
 - [Spring WebFlux Security OTP Email with MongoDB and Flutter 1/2](https://blog.devgenius.io/spring-webflux-security-otp-email-with-mongodb-and-flutter-1-2-f73e1d94ec7a?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot Webflux MongoDB multi-tenancy implementation](https://boottechnologies-ci.medium.com/spring-boot-webflux-mongodb-multi-tenancy-implementation-7d9d8ad1c234?source=rss-48481e69a62f------2)
 - [Spring Data R2DBC with PostgreSQL Database on Amazon RDS](https://boottechnologies-ci.medium.com/spring-data-r2dbc-with-postgresql-database-on-amazon-rds-71864ab9af38?source=rss-48481e69a62f------2)
 - [Securing Spring Boot API using Apache Shiro](https://boottechnologies-ci.medium.com/securing-spring-boot-api-using-apache-shiro-1aa204afcb32?source=rss-48481e69a62f------2)
-- [Spring Cloud Gateway — Securing Services with API Key](https://blog.devgenius.io/spring-cloud-gateway-securing-services-with-api-key-9c39836fc097?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

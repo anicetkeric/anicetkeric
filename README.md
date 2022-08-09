@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Google reCAPTCHA v3 with Spring Webflux and Angular](https://boottechnologies-ci.medium.com/google-recaptcha-v3-with-spring-webflux-and-angular-893e01c76113?source=rss-48481e69a62f------2)
 - [Reactive REST API with Spring WebFlux and Spring Data Cassandra](https://boottechnologies-ci.medium.com/reactive-rest-api-with-spring-webflux-and-spring-data-cassandra-4bf120499105?source=rss-48481e69a62f------2)
 - [API integration testing using Postman, Newman, and Jenkins Pipeline](https://boottechnologies-ci.medium.com/api-integration-testing-using-postman-newman-and-jenkins-pipeline-171145e91353?source=rss-48481e69a62f------2)
 - [Spring Boot Rest API with MyBatis and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-mybatis-and-postgresql-4f0b35497482?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring WebFlux Rest API Global exception handling](https://boottechnologies-ci.medium.com/spring-webflux-rest-api-global-exception-handling-278f4095e45b?source=rss-48481e69a62f------2)
 - [Spring WebFlux and Spring Data Redis Reactive](https://boottechnologies-ci.medium.com/spring-webflux-and-spring-data-redis-reactive-30d9ce11f92b?source=rss-48481e69a62f------2)
 - [Spring Boot Webflux MongoDB multi-tenancy implementation](https://boottechnologies-ci.medium.com/spring-boot-webflux-mongodb-multi-tenancy-implementation-7d9d8ad1c234?source=rss-48481e69a62f------2)
-- [Spring Data R2DBC with PostgreSQL Database on Amazon RDS](https://boottechnologies-ci.medium.com/spring-data-r2dbc-with-postgresql-database-on-amazon-rds-71864ab9af38?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

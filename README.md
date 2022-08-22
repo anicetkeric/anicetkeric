@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick spring boot microservice API using Telosys generator](https://boottechnologies-ci.medium.com/quick-spring-boot-microservice-api-using-telosys-generator-bc29327c06ab?source=rss-48481e69a62f------2)
 - [Google reCAPTCHA v3 with Spring Webflux and Angular](https://boottechnologies-ci.medium.com/google-recaptcha-v3-with-spring-webflux-and-angular-893e01c76113?source=rss-48481e69a62f------2)
 - [Reactive REST API with Spring WebFlux and Spring Data Cassandra](https://boottechnologies-ci.medium.com/reactive-rest-api-with-spring-webflux-and-spring-data-cassandra-4bf120499105?source=rss-48481e69a62f------2)
 - [API integration testing using Postman, Newman, and Jenkins Pipeline](https://boottechnologies-ci.medium.com/api-integration-testing-using-postman-newman-and-jenkins-pipeline-171145e91353?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Automate Angular SPA application deployment to Amazon S3 using GitHub Actions](https://levelup.gitconnected.com/automate-angular-spa-application-deployment-to-amazon-s3-using-github-actions-eca72bdd6dda?source=rss-48481e69a62f------2)
 - [Spring WebFlux Rest API Global exception handling](https://boottechnologies-ci.medium.com/spring-webflux-rest-api-global-exception-handling-278f4095e45b?source=rss-48481e69a62f------2)
 - [Spring WebFlux and Spring Data Redis Reactive](https://boottechnologies-ci.medium.com/spring-webflux-and-spring-data-redis-reactive-30d9ce11f92b?source=rss-48481e69a62f------2)
-- [Spring Boot Webflux MongoDB multi-tenancy implementation](https://boottechnologies-ci.medium.com/spring-boot-webflux-mongodb-multi-tenancy-implementation-7d9d8ad1c234?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

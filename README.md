@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot GraphQL API](https://boottechnologies-ci.medium.com/spring-boot-graphql-api-77b21fcce363?source=rss-48481e69a62f------2)
 - [Apache Pulsar consumer and producer with Spring Boot](https://boottechnologies-ci.medium.com/apache-pulsar-consumer-and-producer-with-spring-boot-916fd06f669?source=rss-48481e69a62f------2)
 - [Spring Boot Rest API with Jdbi 3](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-jdbi-3-353037a0cc8a?source=rss-48481e69a62f------2)
 - [Quick spring boot microservice API using Telosys generator](https://boottechnologies-ci.medium.com/quick-spring-boot-microservice-api-using-telosys-generator-bc29327c06ab?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot Rest API with MyBatis and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-mybatis-and-postgresql-4f0b35497482?source=rss-48481e69a62f------2)
 - [Spring WebFlux Security OTP Email with MongoDB and Flutter 2/2](https://blog.devgenius.io/spring-webflux-security-otp-email-with-mongodb-and-flutter-2-2-6be473576f16?source=rss-48481e69a62f------2)
 - [Spring WebFlux Security OTP Email with MongoDB and Flutter 1/2](https://blog.devgenius.io/spring-webflux-security-otp-email-with-mongodb-and-flutter-1-2-f73e1d94ec7a?source=rss-48481e69a62f------2)
-- [Automate Angular SPA application deployment to Amazon S3 using GitHub Actions](https://levelup.gitconnected.com/automate-angular-spa-application-deployment-to-amazon-s3-using-github-actions-eca72bdd6dda?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

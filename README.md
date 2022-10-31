@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Building REST APIs quickly using PostgREST](https://boottechnologies-ci.medium.com/building-rest-apis-quickly-using-postgrest-9a26ecc41bed?source=rss-48481e69a62f------2)
 - [Spring Boot GraphQL API](https://boottechnologies-ci.medium.com/spring-boot-graphql-api-77b21fcce363?source=rss-48481e69a62f------2)
 - [Apache Pulsar consumer and producer with Spring Boot](https://boottechnologies-ci.medium.com/apache-pulsar-consumer-and-producer-with-spring-boot-916fd06f669?source=rss-48481e69a62f------2)
 - [Spring Boot Rest API with Jdbi 3](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-jdbi-3-353037a0cc8a?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [API integration testing using Postman, Newman, and Jenkins Pipeline](https://boottechnologies-ci.medium.com/api-integration-testing-using-postman-newman-and-jenkins-pipeline-171145e91353?source=rss-48481e69a62f------2)
 - [Spring Boot Rest API with MyBatis and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-mybatis-and-postgresql-4f0b35497482?source=rss-48481e69a62f------2)
 - [Spring WebFlux Security OTP Email with MongoDB and Flutter 2/2](https://blog.devgenius.io/spring-webflux-security-otp-email-with-mongodb-and-flutter-2-2-6be473576f16?source=rss-48481e69a62f------2)
-- [Spring WebFlux Security OTP Email with MongoDB and Flutter 1/2](https://blog.devgenius.io/spring-webflux-security-otp-email-with-mongodb-and-flutter-1-2-f73e1d94ec7a?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

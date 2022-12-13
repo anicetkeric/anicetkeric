@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [API-First with Spring WebFlux and OpenAPI Generator](https://boottechnologies-ci.medium.com/api-first-with-spring-webflux-and-openapi-generator-38b7804c4ed4?source=rss-48481e69a62f------2)
 - [Spring Boot with jOOQ and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-with-jooq-and-postgresql-4a86378a4e5e?source=rss-48481e69a62f------2)
 - [Building REST APIs quickly using PostgREST](https://boottechnologies-ci.medium.com/building-rest-apis-quickly-using-postgrest-9a26ecc41bed?source=rss-48481e69a62f------2)
 - [Spring Boot GraphQL API](https://boottechnologies-ci.medium.com/spring-boot-graphql-api-77b21fcce363?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Google reCAPTCHA v3 with Spring Webflux and Angular](https://boottechnologies-ci.medium.com/google-recaptcha-v3-with-spring-webflux-and-angular-893e01c76113?source=rss-48481e69a62f------2)
 - [Reactive REST API with Spring WebFlux and Spring Data Cassandra](https://boottechnologies-ci.medium.com/reactive-rest-api-with-spring-webflux-and-spring-data-cassandra-4bf120499105?source=rss-48481e69a62f------2)
 - [API integration testing using Postman, Newman, and Jenkins Pipeline](https://boottechnologies-ci.medium.com/api-integration-testing-using-postman-newman-and-jenkins-pipeline-171145e91353?source=rss-48481e69a62f------2)
-- [Spring Boot Rest API with MyBatis and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-mybatis-and-postgresql-4f0b35497482?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

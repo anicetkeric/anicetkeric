@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Rest API search engine with Spring Boot and Spring Data Elasticsearch](https://boottechnologies-ci.medium.com/rest-api-search-engine-with-spring-boot-and-spring-data-elasticsearch-9fc3295a30a7?source=rss-48481e69a62f------2)
 - [AWS S3 with Spring WebFlux](https://boottechnologies-ci.medium.com/aws-s3-with-spring-webflux-fda9af665397?source=rss-48481e69a62f------2)
 - [API-First with Spring WebFlux and OpenAPI Generator](https://boottechnologies-ci.medium.com/api-first-with-spring-webflux-and-openapi-generator-38b7804c4ed4?source=rss-48481e69a62f------2)
 - [Spring Boot with jOOQ and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-with-jooq-and-postgresql-4a86378a4e5e?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot Rest API with Jdbi 3](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-jdbi-3-353037a0cc8a?source=rss-48481e69a62f------2)
 - [Quick spring boot microservice API using Telosys generator](https://boottechnologies-ci.medium.com/quick-spring-boot-microservice-api-using-telosys-generator-bc29327c06ab?source=rss-48481e69a62f------2)
 - [Google reCAPTCHA v3 with Spring Webflux and Angular](https://boottechnologies-ci.medium.com/google-recaptcha-v3-with-spring-webflux-and-angular-893e01c76113?source=rss-48481e69a62f------2)
-- [Reactive REST API with Spring WebFlux and Spring Data Cassandra](https://boottechnologies-ci.medium.com/reactive-rest-api-with-spring-webflux-and-spring-data-cassandra-4bf120499105?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

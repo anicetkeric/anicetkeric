@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot 3.0 API deployment using Jenkins pipeline and Docker](https://boottechnologies-ci.medium.com/spring-boot-3-0-api-deployment-using-jenkins-pipeline-and-docker-ba477a455010?source=rss-48481e69a62f------2)
 - [Secure REST API with Spring Boot 3.0, Spring Security 6.0 and PASETO](https://boottechnologies-ci.medium.com/secure-rest-api-with-spring-boot-3-0-spring-security-6-0-and-paseto-1b9b39ed83a9?source=rss-48481e69a62f------2)
 - [Rest API search engine with Spring Boot and Spring Data Elasticsearch](https://boottechnologies-ci.medium.com/rest-api-search-engine-with-spring-boot-and-spring-data-elasticsearch-9fc3295a30a7?source=rss-48481e69a62f------2)
 - [AWS S3 with Spring WebFlux](https://boottechnologies-ci.medium.com/aws-s3-with-spring-webflux-fda9af665397?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot GraphQL API](https://boottechnologies-ci.medium.com/spring-boot-graphql-api-77b21fcce363?source=rss-48481e69a62f------2)
 - [Apache Pulsar consumer and producer with Spring Boot](https://boottechnologies-ci.medium.com/apache-pulsar-consumer-and-producer-with-spring-boot-916fd06f669?source=rss-48481e69a62f------2)
 - [Spring Boot Rest API with Jdbi 3](https://boottechnologies-ci.medium.com/spring-boot-rest-api-with-jdbi-3-353037a0cc8a?source=rss-48481e69a62f------2)
-- [Quick spring boot microservice API using Telosys generator](https://boottechnologies-ci.medium.com/quick-spring-boot-microservice-api-using-telosys-generator-bc29327c06ab?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

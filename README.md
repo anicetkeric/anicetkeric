@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot API deployment using GitLab CI/CD and Docker](https://boottechnologies-ci.medium.com/spring-boot-api-deployment-using-gitlab-ci-cd-and-docker-e2ebd88eb8af?source=rss-48481e69a62f------2)
 - [Spring WebFlux Rest API internationalization i18n](https://boottechnologies-ci.medium.com/spring-webflux-rest-api-internationalization-i18n-bf8af0f3da7?source=rss-48481e69a62f------2)
 - [Spring Boot 3.0 API deployment using Jenkins pipeline and Docker](https://boottechnologies-ci.medium.com/spring-boot-3-0-api-deployment-using-jenkins-pipeline-and-docker-ba477a455010?source=rss-48481e69a62f------2)
 - [Secure REST API with Spring Boot 3.0, Spring Security 6.0 and PASETO](https://boottechnologies-ci.medium.com/secure-rest-api-with-spring-boot-3-0-spring-security-6-0-and-paseto-1b9b39ed83a9?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot with jOOQ and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-with-jooq-and-postgresql-4a86378a4e5e?source=rss-48481e69a62f------2)
 - [Building REST APIs quickly using PostgREST](https://boottechnologies-ci.medium.com/building-rest-apis-quickly-using-postgrest-9a26ecc41bed?source=rss-48481e69a62f------2)
 - [Spring Boot GraphQL API](https://boottechnologies-ci.medium.com/spring-boot-graphql-api-77b21fcce363?source=rss-48481e69a62f------2)
-- [Apache Pulsar consumer and producer with Spring Boot](https://boottechnologies-ci.medium.com/apache-pulsar-consumer-and-producer-with-spring-boot-916fd06f669?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

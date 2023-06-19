@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data Reactive MongoDB aggregation pipeline](https://boottechnologies-ci.medium.com/spring-data-reactive-mongodb-aggregation-pipeline-924e90ce1e79?source=rss-48481e69a62f------2)
 - [Reactive REST API with AWS DynamoDB and Spring WebFlux](https://boottechnologies-ci.medium.com/reactive-rest-api-with-aws-dynamodb-and-spring-webflux-eb20b5a3097?source=rss-48481e69a62f------2)
 - [Spring Boot API deployment using GitLab CI/CD and Docker](https://boottechnologies-ci.medium.com/spring-boot-api-deployment-using-gitlab-ci-cd-and-docker-e2ebd88eb8af?source=rss-48481e69a62f------2)
 - [Spring WebFlux Rest API internationalization i18n](https://boottechnologies-ci.medium.com/spring-webflux-rest-api-internationalization-i18n-bf8af0f3da7?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [AWS S3 with Spring WebFlux](https://boottechnologies-ci.medium.com/aws-s3-with-spring-webflux-fda9af665397?source=rss-48481e69a62f------2)
 - [API-First with Spring WebFlux and OpenAPI Generator](https://boottechnologies-ci.medium.com/api-first-with-spring-webflux-and-openapi-generator-38b7804c4ed4?source=rss-48481e69a62f------2)
 - [Spring Boot with jOOQ and PostgreSQL](https://boottechnologies-ci.medium.com/spring-boot-with-jooq-and-postgresql-4a86378a4e5e?source=rss-48481e69a62f------2)
-- [Building REST APIs quickly using PostgREST](https://boottechnologies-ci.medium.com/building-rest-apis-quickly-using-postgrest-9a26ecc41bed?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

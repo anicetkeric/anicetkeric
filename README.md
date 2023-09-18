@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter 3.0: Implement dynamic Theming using Bloc-Cubit](https://boottechnologies-ci.medium.com/flutter-3-0-implement-dynamic-theming-using-bloc-cubit-899e9d395f62?source=rss-48481e69a62f------2)
 - [Standalone stub server using Spring Cloud Contract WireMock](https://boottechnologies-ci.medium.com/standalone-stub-server-using-spring-cloud-contract-wiremock-c91e72d8cdde?source=rss-48481e69a62f------2)
 - [AWS Cognito auth server with AWS SDK for JavaScript &lpar;v3&rpar; using Node.js, Express.js](https://boottechnologies-ci.medium.com/aws-cognito-auth-server-with-aws-sdk-for-javascript-v3-using-node-js-express-js-12a9d3f164e9?source=rss-48481e69a62f------2)
 - [AWS Systems Manager Parameter Store &lpar;SSM&rpar; With Spring Boot 3](https://boottechnologies-ci.medium.com/aws-systems-manager-parameter-store-ssm-with-spring-boot-3-10d112595c6a?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring WebFlux Rest API internationalization i18n](https://boottechnologies-ci.medium.com/spring-webflux-rest-api-internationalization-i18n-bf8af0f3da7?source=rss-48481e69a62f------2)
 - [Spring Boot 3.0 API deployment using Jenkins pipeline and Docker](https://boottechnologies-ci.medium.com/spring-boot-3-0-api-deployment-using-jenkins-pipeline-and-docker-ba477a455010?source=rss-48481e69a62f------2)
 - [Secure REST API with Spring Boot 3.0, Spring Security 6.0 and PASETO](https://boottechnologies-ci.medium.com/secure-rest-api-with-spring-boot-3-0-spring-security-6-0-and-paseto-1b9b39ed83a9?source=rss-48481e69a62f------2)
-- [Rest API search engine with Spring Boot and Spring Data Elasticsearch](https://boottechnologies-ci.medium.com/rest-api-search-engine-with-spring-boot-and-spring-data-elasticsearch-9fc3295a30a7?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

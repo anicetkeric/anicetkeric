@@ -6,7 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Falcon Microservice With MongoDB and Docker — DZone](https://boottechnologies-ci.medium.com/python-falcon-microservice-with-mongodb-and-docker-dzone-485188ec4fa1?source=rss-48481e69a62f------2)
+- [Python Falcon Microservice With MongoDB and Docker](https://boottechnologies-ci.medium.com/python-falcon-microservice-with-mongodb-and-docker-dzone-485188ec4fa1?source=rss-48481e69a62f------2)
 - [Advanced email personalization template with Amazon SES using Spring Boot 3](https://boottechnologies-ci.medium.com/advanced-email-personalization-template-with-amazon-ses-using-spring-boot-3-61dace8f03c4?source=rss-48481e69a62f------2)
 - [Flutter 3.0: Implement dynamic Theming using Bloc-Cubit](https://boottechnologies-ci.medium.com/flutter-3-0-implement-dynamic-theming-using-bloc-cubit-899e9d395f62?source=rss-48481e69a62f------2)
 - [Standalone stub server using Spring Cloud Contract WireMock](https://boottechnologies-ci.medium.com/standalone-stub-server-using-spring-cloud-contract-wiremock-c91e72d8cdde?source=rss-48481e69a62f------2)

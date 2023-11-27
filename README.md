@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [OWASP Dependency Check with Spring boot and Jenkins pipeline](https://boottechnologies-ci.medium.com/owasp-dependency-check-with-spring-boot-and-jenkins-pipeline-af0e915d6a14?source=rss-48481e69a62f------2)
 - [Building CI Multibranch pipeline with Jenkins and GitHub](https://boottechnologies-ci.medium.com/building-ci-multibranch-pipeline-with-jenkins-and-github-5d38441cc6a9?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Code quality with SonarQube](https://boottechnologies-ci.medium.com/spring-boot-3-code-quality-with-sonarqube-79f8fe0b0ea5?source=rss-48481e69a62f------2)
 - [Python Falcon Microservice With MongoDB and Docker](https://boottechnologies-ci.medium.com/python-falcon-microservice-with-mongodb-and-docker-dzone-485188ec4fa1?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [AWS Cognito auth server with AWS SDK for JavaScript &lpar;v3&rpar; using Node.js, Express.js](https://boottechnologies-ci.medium.com/aws-cognito-auth-server-with-aws-sdk-for-javascript-v3-using-node-js-express-js-12a9d3f164e9?source=rss-48481e69a62f------2)
 - [AWS Systems Manager Parameter Store &lpar;SSM&rpar; With Spring Boot 3](https://boottechnologies-ci.medium.com/aws-systems-manager-parameter-store-ssm-with-spring-boot-3-10d112595c6a?source=rss-48481e69a62f------2)
 - [Spring Data Reactive MongoDB aggregation pipeline](https://boottechnologies-ci.medium.com/spring-data-reactive-mongodb-aggregation-pipeline-924e90ce1e79?source=rss-48481e69a62f------2)
-- [Reactive REST API with AWS DynamoDB and Spring WebFlux](https://boottechnologies-ci.medium.com/reactive-rest-api-with-aws-dynamodb-and-spring-webflux-eb20b5a3097?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

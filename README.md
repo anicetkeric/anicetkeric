@@ -6,7 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [OWASP Dependency Check with Spring boot and Jenkins pipeline](https://boottechnologies-ci.medium.com/owasp-dependency-check-with-spring-boot-and-jenkins-pipeline-af0e915d6a14?source=rss-48481e69a62f------2)
+- [OWASP Dependency Check with Spring boot and Jenkins pipeline](https://blog.stackademic.com/owasp-dependency-check-with-spring-boot-and-jenkins-pipeline-af0e915d6a14?source=rss-48481e69a62f------2)
 - [Building CI Multibranch pipeline with Jenkins and GitHub](https://boottechnologies-ci.medium.com/building-ci-multibranch-pipeline-with-jenkins-and-github-5d38441cc6a9?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Code quality with SonarQube](https://boottechnologies-ci.medium.com/spring-boot-3-code-quality-with-sonarqube-79f8fe0b0ea5?source=rss-48481e69a62f------2)
 - [Python Falcon Microservice With MongoDB and Docker](https://boottechnologies-ci.medium.com/python-falcon-microservice-with-mongodb-and-docker-dzone-485188ec4fa1?source=rss-48481e69a62f------2)

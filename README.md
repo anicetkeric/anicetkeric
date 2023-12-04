@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cognito — Additional Claims in JWT ID Tokens](https://boottechnologies-ci.medium.com/aws-cognito-additional-claims-in-jwt-id-tokens-8804b3f1eaac?source=rss-48481e69a62f------2)
 - [OWASP Dependency Check with SpringBoot and Jenkins Pipeline](https://blog.stackademic.com/owasp-dependency-check-with-spring-boot-and-jenkins-pipeline-af0e915d6a14?source=rss-48481e69a62f------2)
 - [Building CI Multibranch pipeline with Jenkins and GitHub](https://boottechnologies-ci.medium.com/building-ci-multibranch-pipeline-with-jenkins-and-github-5d38441cc6a9?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Code quality with SonarQube](https://boottechnologies-ci.medium.com/spring-boot-3-code-quality-with-sonarqube-79f8fe0b0ea5?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Standalone stub server using Spring Cloud Contract WireMock](https://boottechnologies-ci.medium.com/standalone-stub-server-using-spring-cloud-contract-wiremock-c91e72d8cdde?source=rss-48481e69a62f------2)
 - [AWS Cognito auth server with AWS SDK for JavaScript &lpar;v3&rpar; using Node.js, Express.js](https://boottechnologies-ci.medium.com/aws-cognito-auth-server-with-aws-sdk-for-javascript-v3-using-node-js-express-js-12a9d3f164e9?source=rss-48481e69a62f------2)
 - [AWS Systems Manager Parameter Store &lpar;SSM&rpar; With Spring Boot 3](https://boottechnologies-ci.medium.com/aws-systems-manager-parameter-store-ssm-with-spring-boot-3-10d112595c6a?source=rss-48481e69a62f------2)
-- [Spring Data Reactive MongoDB aggregation pipeline](https://boottechnologies-ci.medium.com/spring-data-reactive-mongodb-aggregation-pipeline-924e90ce1e79?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

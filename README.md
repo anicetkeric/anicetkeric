@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 1](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-1-b6f35f6338ee?source=rss-48481e69a62f------2)
 - [Spring Boot Applications Monitoring with Ostara for Spring](https://boottechnologies-ci.medium.com/spring-boot-applications-monitoring-with-ostara-for-spring-f57c83e0fb69?source=rss-48481e69a62f------2)
 - [AWS Cognito — Additional Claims in JWT ID Tokens](https://boottechnologies-ci.medium.com/aws-cognito-additional-claims-in-jwt-id-tokens-8804b3f1eaac?source=rss-48481e69a62f------2)
 - [OWASP Dependency Check with SpringBoot and Jenkins Pipeline](https://blog.stackademic.com/owasp-dependency-check-with-spring-boot-and-jenkins-pipeline-af0e915d6a14?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Advanced email personalization template with Amazon SES using Spring Boot 3](https://boottechnologies-ci.medium.com/advanced-email-personalization-template-with-amazon-ses-using-spring-boot-3-61dace8f03c4?source=rss-48481e69a62f------2)
 - [Flutter 3.0: Implement dynamic Theming using Bloc-Cubit](https://boottechnologies-ci.medium.com/flutter-3-0-implement-dynamic-theming-using-bloc-cubit-899e9d395f62?source=rss-48481e69a62f------2)
 - [Standalone stub server using Spring Cloud Contract WireMock](https://boottechnologies-ci.medium.com/standalone-stub-server-using-spring-cloud-contract-wiremock-c91e72d8cdde?source=rss-48481e69a62f------2)
-- [AWS Cognito auth server with AWS SDK for JavaScript &lpar;v3&rpar; using Node.js, Express.js](https://boottechnologies-ci.medium.com/aws-cognito-auth-server-with-aws-sdk-for-javascript-v3-using-node-js-express-js-12a9d3f164e9?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

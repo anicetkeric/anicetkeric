@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS CodeArtifact integration with Jenkins to publish Maven artifacts](https://boottechnologies-ci.medium.com/aws-codeartifact-integration-with-jenkins-to-publish-maven-artifacts-135a6eda005c?source=rss-48481e69a62f------2)
 - [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 2](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-2-e58d902215dd?source=rss-48481e69a62f------2)
 - [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 1](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-1-b6f35f6338ee?source=rss-48481e69a62f------2)
 - [Spring Boot Applications Monitoring with Ostara for Spring](https://boottechnologies-ci.medium.com/spring-boot-applications-monitoring-with-ostara-for-spring-f57c83e0fb69?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot 3 — Code quality with SonarQube](https://boottechnologies-ci.medium.com/spring-boot-3-code-quality-with-sonarqube-79f8fe0b0ea5?source=rss-48481e69a62f------2)
 - [Python Falcon Microservice With MongoDB and Docker](https://boottechnologies-ci.medium.com/python-falcon-microservice-with-mongodb-and-docker-dzone-485188ec4fa1?source=rss-48481e69a62f------2)
 - [Advanced email personalization template with Amazon SES using Spring Boot 3](https://boottechnologies-ci.medium.com/advanced-email-personalization-template-with-amazon-ses-using-spring-boot-3-61dace8f03c4?source=rss-48481e69a62f------2)
-- [Flutter 3.0: Implement dynamic Theming using Bloc-Cubit](https://boottechnologies-ci.medium.com/flutter-3-0-implement-dynamic-theming-using-bloc-cubit-899e9d395f62?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

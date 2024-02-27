@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing Parameterized Tests using JUnit 5](https://boottechnologies-ci.medium.com/writing-parameterized-tests-using-junit-5-498a5a16ab8b?source=rss-48481e69a62f------2)
 - [AWS CodeArtifact integration with Jenkins to publish Maven artifacts](https://boottechnologies-ci.medium.com/aws-codeartifact-integration-with-jenkins-to-publish-maven-artifacts-135a6eda005c?source=rss-48481e69a62f------2)
 - [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 2](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-2-e58d902215dd?source=rss-48481e69a62f------2)
 - [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 1](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-1-b6f35f6338ee?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Building CI Multibranch pipeline with Jenkins and GitHub](https://boottechnologies-ci.medium.com/building-ci-multibranch-pipeline-with-jenkins-and-github-5d38441cc6a9?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Code quality with SonarQube](https://boottechnologies-ci.medium.com/spring-boot-3-code-quality-with-sonarqube-79f8fe0b0ea5?source=rss-48481e69a62f------2)
 - [Python Falcon Microservice With MongoDB and Docker](https://boottechnologies-ci.medium.com/python-falcon-microservice-with-mongodb-and-docker-dzone-485188ec4fa1?source=rss-48481e69a62f------2)
-- [Advanced email personalization template with Amazon SES using Spring Boot 3](https://boottechnologies-ci.medium.com/advanced-email-personalization-template-with-amazon-ses-using-spring-boot-3-61dace8f03c4?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

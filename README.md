@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Harbor Docker Image Registry Setup Using Ansible and Vagrant](https://boottechnologies-ci.medium.com/harbor-docker-image-registry-setup-using-ansible-and-vagrant-ffa586e8ef35?source=rss-48481e69a62f------2)
 - [Easy integration testing for Spring WebFlux using Testcontainers](https://boottechnologies-ci.medium.com/easy-integration-testing-for-spring-webflux-using-testcontainers-8a59239174ee?source=rss-48481e69a62f------2)
 - [Data Auditing Using JaVers and Spring Data MongoDB](https://boottechnologies-ci.medium.com/data-auditing-using-javers-and-spring-data-mongodb-139bb11f7c4e?source=rss-48481e69a62f------2)
 - [Writing Parameterized Tests using JUnit 5](https://boottechnologies-ci.medium.com/writing-parameterized-tests-using-junit-5-498a5a16ab8b?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot Applications Monitoring with Ostara for Spring](https://boottechnologies-ci.medium.com/spring-boot-applications-monitoring-with-ostara-for-spring-f57c83e0fb69?source=rss-48481e69a62f------2)
 - [AWS Cognito — Additional Claims in JWT ID Tokens](https://boottechnologies-ci.medium.com/aws-cognito-additional-claims-in-jwt-id-tokens-8804b3f1eaac?source=rss-48481e69a62f------2)
 - [OWASP Dependency Check with SpringBoot and Jenkins Pipeline](https://blog.stackademic.com/owasp-dependency-check-with-spring-boot-and-jenkins-pipeline-af0e915d6a14?source=rss-48481e69a62f------2)
-- [Building CI Multibranch pipeline with Jenkins and GitHub](https://boottechnologies-ci.medium.com/building-ci-multibranch-pipeline-with-jenkins-and-github-5d38441cc6a9?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

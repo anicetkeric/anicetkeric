@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [REST API with Spring Boot and Opensearch](https://boottechnologies-ci.medium.com/rest-api-with-spring-boot-and-opensearch-dd9a3b637157?source=rss-48481e69a62f------2)
 - [Harbor Docker Image Registry Setup Using Ansible and Vagrant](https://boottechnologies-ci.medium.com/harbor-docker-image-registry-setup-using-ansible-and-vagrant-ffa586e8ef35?source=rss-48481e69a62f------2)
 - [Easy integration testing for Spring WebFlux using Testcontainers](https://boottechnologies-ci.medium.com/easy-integration-testing-for-spring-webflux-using-testcontainers-8a59239174ee?source=rss-48481e69a62f------2)
 - [Data Auditing Using JaVers and Spring Data MongoDB](https://boottechnologies-ci.medium.com/data-auditing-using-javers-and-spring-data-mongodb-139bb11f7c4e?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 1](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-1-b6f35f6338ee?source=rss-48481e69a62f------2)
 - [Spring Boot Applications Monitoring with Ostara for Spring](https://boottechnologies-ci.medium.com/spring-boot-applications-monitoring-with-ostara-for-spring-f57c83e0fb69?source=rss-48481e69a62f------2)
 - [AWS Cognito — Additional Claims in JWT ID Tokens](https://boottechnologies-ci.medium.com/aws-cognito-additional-claims-in-jwt-id-tokens-8804b3f1eaac?source=rss-48481e69a62f------2)
-- [OWASP Dependency Check with SpringBoot and Jenkins Pipeline](https://blog.stackademic.com/owasp-dependency-check-with-spring-boot-and-jenkins-pipeline-af0e915d6a14?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

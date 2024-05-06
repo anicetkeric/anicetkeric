@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Lab2 &lpar;Spring Boot/K8S&rpar;: Kubernetes health probes with Spring Boot](https://boottechnologies-ci.medium.com/lab2-spring-boot-k8s-kubernetes-health-probes-with-spring-boot-07f06a28433d?source=rss-48481e69a62f------2)
 - [Lab1 &lpar;Spring Boot/K8S&rpar;: Deploy Spring Boot application on Kubernetes](https://boottechnologies-ci.medium.com/lab1-spring-boot-k8s-deploy-spring-boot-application-on-kubernetes-6b76c9f55e16?source=rss-48481e69a62f------2)
 - [REST API with Spring Boot and Opensearch](https://boottechnologies-ci.medium.com/rest-api-with-spring-boot-and-opensearch-dd9a3b637157?source=rss-48481e69a62f------2)
 - [Harbor Docker Image Registry Setup Using Ansible and Vagrant](https://boottechnologies-ci.medium.com/harbor-docker-image-registry-setup-using-ansible-and-vagrant-ffa586e8ef35?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [AWS CodeArtifact integration with Jenkins to publish Maven artifacts](https://boottechnologies-ci.medium.com/aws-codeartifact-integration-with-jenkins-to-publish-maven-artifacts-135a6eda005c?source=rss-48481e69a62f------2)
 - [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 2](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-2-e58d902215dd?source=rss-48481e69a62f------2)
 - [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 1](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-1-b6f35f6338ee?source=rss-48481e69a62f------2)
-- [Spring Boot Applications Monitoring with Ostara for Spring](https://boottechnologies-ci.medium.com/spring-boot-applications-monitoring-with-ostara-for-spring-f57c83e0fb69?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

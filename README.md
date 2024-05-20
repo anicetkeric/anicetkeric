@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Lab4 &lpar;Spring Boot/K8S&rpar;: Using Kubernetes Secrets in Spring Boot](https://boottechnologies-ci.medium.com/lab4-spring-boot-k8s-using-kubernetes-secrets-in-spring-boot-4a10d3c89623?source=rss-48481e69a62f------2)
 - [Lab3 &lpar;Spring Boot/K8S&rpar;: Mastering ConfigMaps in Kubernetes](https://boottechnologies-ci.medium.com/lab3-spring-boot-k8s-mastering-configmaps-in-kubernetes-6c5884c27688?source=rss-48481e69a62f------2)
 - [Lab2 &lpar;Spring Boot/K8S&rpar;: Kubernetes health probes with Spring Boot](https://boottechnologies-ci.medium.com/lab2-spring-boot-k8s-kubernetes-health-probes-with-spring-boot-07f06a28433d?source=rss-48481e69a62f------2)
 - [Lab1 &lpar;Spring Boot/K8S&rpar;: Deploy Spring Boot application on Kubernetes](https://boottechnologies-ci.medium.com/lab1-spring-boot-k8s-deploy-spring-boot-application-on-kubernetes-6b76c9f55e16?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Data Auditing Using JaVers and Spring Data MongoDB](https://boottechnologies-ci.medium.com/data-auditing-using-javers-and-spring-data-mongodb-139bb11f7c4e?source=rss-48481e69a62f------2)
 - [Writing Parameterized Tests using JUnit 5](https://boottechnologies-ci.medium.com/writing-parameterized-tests-using-junit-5-498a5a16ab8b?source=rss-48481e69a62f------2)
 - [AWS CodeArtifact integration with Jenkins to publish Maven artifacts](https://boottechnologies-ci.medium.com/aws-codeartifact-integration-with-jenkins-to-publish-maven-artifacts-135a6eda005c?source=rss-48481e69a62f------2)
-- [Spring Batch 5 — Read from MongoDB and generate CSV files: Part 2](https://boottechnologies-ci.medium.com/spring-batch-5-read-from-mongodb-and-generate-csv-files-part-2-e58d902215dd?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

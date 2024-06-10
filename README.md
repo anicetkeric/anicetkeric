@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 2](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-2-d8154def97a0?source=rss-48481e69a62f------2)
 - [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 1](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-1-ae2c4872509a?source=rss-48481e69a62f------2)
 - [Lab4 &lpar;Spring Boot/K8S&rpar;: Using Kubernetes Secrets in Spring Boot](https://boottechnologies-ci.medium.com/lab4-spring-boot-k8s-using-kubernetes-secrets-in-spring-boot-4a10d3c89623?source=rss-48481e69a62f------2)
 - [Lab3 &lpar;Spring Boot/K8S&rpar;: Mastering ConfigMaps in Kubernetes](https://boottechnologies-ci.medium.com/lab3-spring-boot-k8s-mastering-configmaps-in-kubernetes-6c5884c27688?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Harbor Docker Image Registry Setup Using Ansible and Vagrant](https://boottechnologies-ci.medium.com/harbor-docker-image-registry-setup-using-ansible-and-vagrant-ffa586e8ef35?source=rss-48481e69a62f------2)
 - [Easy integration testing for Spring WebFlux using Testcontainers](https://boottechnologies-ci.medium.com/easy-integration-testing-for-spring-webflux-using-testcontainers-8a59239174ee?source=rss-48481e69a62f------2)
 - [Data Auditing Using JaVers and Spring Data MongoDB](https://boottechnologies-ci.medium.com/data-auditing-using-javers-and-spring-data-mongodb-139bb11f7c4e?source=rss-48481e69a62f------2)
-- [Writing Parameterized Tests using JUnit 5](https://boottechnologies-ci.medium.com/writing-parameterized-tests-using-junit-5-498a5a16ab8b?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -35,13 +35,12 @@
 <a href="https://www.buymeacoffee.com/boottechnou" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/anicetkeric/anicetkeric/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=anicetkeric&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=anicetkeric&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anicetkeric&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=anicetkeric&theme=tokyo-night)
-  </div>
-</details>
+
+![anicetkeric GitHub stats](https://github-readme-stats.vercel.app/api?username=anicetkeric&show_icons=true&theme=radical) <br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anicetkeric&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=anicetkeric&theme=tokyo-night)<br/>
+
+
 

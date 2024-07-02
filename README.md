@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ Producer and Consumer with Reactor RabbitMQ and Spring WebFlux](https://boottechnologies-ci.medium.com/rabbitmq-producer-and-consumer-with-reactor-rabbitmq-and-spring-webflux-105ea27f951c?source=rss-48481e69a62f------2)
 - [Lab6 &lpar;Spring Boot/K8S&rpar;: Persistent Volumes in Kubernetes](https://boottechnologies-ci.medium.com/lab6-spring-boot-k8s-persistent-volumes-in-kubernetes-11434bbaa588?source=rss-48481e69a62f------2)
 - [Lab5 &lpar;Spring Boot/K8S&rpar;: Understanding Kubernetes Resources Management](https://boottechnologies-ci.medium.com/lab5-spring-boot-k8s-understanding-kubernetes-resources-management-8b6188d3b9b6?source=rss-48481e69a62f------2)
 - [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 2](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-2-d8154def97a0?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Lab2 &lpar;Spring Boot/K8S&rpar;: Kubernetes health probes with Spring Boot](https://boottechnologies-ci.medium.com/lab2-spring-boot-k8s-kubernetes-health-probes-with-spring-boot-07f06a28433d?source=rss-48481e69a62f------2)
 - [Lab1 &lpar;Spring Boot/K8S&rpar;: Deploy Spring Boot application on Kubernetes](https://boottechnologies-ci.medium.com/lab1-spring-boot-k8s-deploy-spring-boot-application-on-kubernetes-6b76c9f55e16?source=rss-48481e69a62f------2)
 - [REST API with Spring Boot and Opensearch](https://boottechnologies-ci.medium.com/rest-api-with-spring-boot-and-opensearch-dd9a3b637157?source=rss-48481e69a62f------2)
-- [Harbor Docker Image Registry Setup Using Ansible and Vagrant](https://boottechnologies-ci.medium.com/harbor-docker-image-registry-setup-using-ansible-and-vagrant-ffa586e8ef35?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

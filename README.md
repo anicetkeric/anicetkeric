@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring a Spring Boot app using Prometheus and Grafana](https://boottechnologies-ci.medium.com/monitoring-a-spring-boot-app-using-prometheus-and-grafana-fbeb9d973667?source=rss-48481e69a62f------2)
 - [Lab8 &lpar;Spring Boot/K8S&rpar;: Deploy a Spring Boot application on Kubernetes using Helm Chart](https://boottechnologies-ci.medium.com/lab8-spring-boot-k8s-deploy-a-spring-boot-application-on-kubernetes-using-helm-chart-9847a11633cc?source=rss-48481e69a62f------2)
 - [Lab7 &lpar;Spring Boot/K8S&rpar;: Spring Batch on Kubernetes — Jobs and CronJobs](https://boottechnologies-ci.medium.com/lab7-spring-boot-k8s-spring-batch-on-kubernetes-jobs-and-cronjobs-d75344fec5af?source=rss-48481e69a62f------2)
 - [RabbitMQ Producer and Consumer with Reactor RabbitMQ and Spring WebFlux](https://boottechnologies-ci.medium.com/rabbitmq-producer-and-consumer-with-reactor-rabbitmq-and-spring-webflux-105ea27f951c?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 1](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-1-ae2c4872509a?source=rss-48481e69a62f------2)
 - [Lab4 &lpar;Spring Boot/K8S&rpar;: Using Kubernetes Secrets in Spring Boot](https://boottechnologies-ci.medium.com/lab4-spring-boot-k8s-using-kubernetes-secrets-in-spring-boot-4a10d3c89623?source=rss-48481e69a62f------2)
 - [Lab3 &lpar;Spring Boot/K8S&rpar;: Mastering ConfigMaps in Kubernetes](https://boottechnologies-ci.medium.com/lab3-spring-boot-k8s-mastering-configmaps-in-kubernetes-6c5884c27688?source=rss-48481e69a62f------2)
-- [Lab2 &lpar;Spring Boot/K8S&rpar;: Kubernetes health probes with Spring Boot](https://boottechnologies-ci.medium.com/lab2-spring-boot-k8s-kubernetes-health-probes-with-spring-boot-07f06a28433d?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

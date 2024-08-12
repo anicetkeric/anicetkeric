@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Lab9 &lpar;Spring Boot/K8S&rpar;: Understanding Kubernetes DaemonSet](https://boottechnologies-ci.medium.com/lab9-spring-boot-k8s-understanding-kubernetes-daemonset-c1c12ea7c7ea?source=rss-48481e69a62f------2)
 - [Reuse a Pipeline with Jenkins Shared Library](https://boottechnologies-ci.medium.com/reuse-a-pipeline-with-jenkins-shared-library-1bd1f428c247?source=rss-48481e69a62f------2)
 - [Monitoring a Spring Boot app using Prometheus and Grafana](https://boottechnologies-ci.medium.com/monitoring-a-spring-boot-app-using-prometheus-and-grafana-fbeb9d973667?source=rss-48481e69a62f------2)
 - [Lab8 &lpar;Spring Boot/K8S&rpar;: Deploy a Spring Boot application on Kubernetes using Helm Chart](https://boottechnologies-ci.medium.com/lab8-spring-boot-k8s-deploy-a-spring-boot-application-on-kubernetes-using-helm-chart-9847a11633cc?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Lab5 &lpar;Spring Boot/K8S&rpar;: Understanding Kubernetes Resources Management](https://boottechnologies-ci.medium.com/lab5-spring-boot-k8s-understanding-kubernetes-resources-management-8b6188d3b9b6?source=rss-48481e69a62f------2)
 - [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 2](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-2-d8154def97a0?source=rss-48481e69a62f------2)
 - [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 1](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-1-ae2c4872509a?source=rss-48481e69a62f------2)
-- [Lab4 &lpar;Spring Boot/K8S&rpar;: Using Kubernetes Secrets in Spring Boot](https://boottechnologies-ci.medium.com/lab4-spring-boot-k8s-using-kubernetes-secrets-in-spring-boot-4a10d3c89623?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

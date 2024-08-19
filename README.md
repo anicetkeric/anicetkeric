@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Sort and Filtering REST API Using Spring Data and MongoDB](https://boottechnologies-ci.medium.com/advanced-sort-and-filtering-rest-api-using-spring-data-and-mongodb-3e2f1140a189?source=rss-48481e69a62f------2)
 - [Lab9 &lpar;Spring Boot/K8S&rpar;: Understanding Kubernetes DaemonSet](https://boottechnologies-ci.medium.com/lab9-spring-boot-k8s-understanding-kubernetes-daemonset-c1c12ea7c7ea?source=rss-48481e69a62f------2)
 - [Reuse a Pipeline with Jenkins Shared Library](https://boottechnologies-ci.medium.com/reuse-a-pipeline-with-jenkins-shared-library-1bd1f428c247?source=rss-48481e69a62f------2)
 - [Monitoring a Spring Boot app using Prometheus and Grafana](https://boottechnologies-ci.medium.com/monitoring-a-spring-boot-app-using-prometheus-and-grafana-fbeb9d973667?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Lab6 &lpar;Spring Boot/K8S&rpar;: Persistent Volumes in Kubernetes](https://boottechnologies-ci.medium.com/lab6-spring-boot-k8s-persistent-volumes-in-kubernetes-11434bbaa588?source=rss-48481e69a62f------2)
 - [Lab5 &lpar;Spring Boot/K8S&rpar;: Understanding Kubernetes Resources Management](https://boottechnologies-ci.medium.com/lab5-spring-boot-k8s-understanding-kubernetes-resources-management-8b6188d3b9b6?source=rss-48481e69a62f------2)
 - [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 2](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-2-d8154def97a0?source=rss-48481e69a62f------2)
-- [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 1](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-1-ae2c4872509a?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

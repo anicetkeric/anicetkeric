@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot CRUD Rest API with MS SQL Server](https://boottechnologies-ci.medium.com/spring-boot-crud-rest-api-with-ms-sql-server-c8d3b9ab81f8?source=rss-48481e69a62f------2)
 - [Advanced Sort and Filtering REST API Using Spring Data and MongoDB](https://boottechnologies-ci.medium.com/advanced-sort-and-filtering-rest-api-using-spring-data-and-mongodb-3e2f1140a189?source=rss-48481e69a62f------2)
 - [Lab9 &lpar;Spring Boot/K8S&rpar;: Understanding Kubernetes DaemonSet](https://boottechnologies-ci.medium.com/lab9-spring-boot-k8s-understanding-kubernetes-daemonset-c1c12ea7c7ea?source=rss-48481e69a62f------2)
 - [Reuse a Pipeline with Jenkins Shared Library](https://boottechnologies-ci.medium.com/reuse-a-pipeline-with-jenkins-shared-library-1bd1f428c247?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [RabbitMQ Producer and Consumer with Reactor RabbitMQ and Spring WebFlux](https://boottechnologies-ci.medium.com/rabbitmq-producer-and-consumer-with-reactor-rabbitmq-and-spring-webflux-105ea27f951c?source=rss-48481e69a62f------2)
 - [Lab6 &lpar;Spring Boot/K8S&rpar;: Persistent Volumes in Kubernetes](https://boottechnologies-ci.medium.com/lab6-spring-boot-k8s-persistent-volumes-in-kubernetes-11434bbaa588?source=rss-48481e69a62f------2)
 - [Lab5 &lpar;Spring Boot/K8S&rpar;: Understanding Kubernetes Resources Management](https://boottechnologies-ci.medium.com/lab5-spring-boot-k8s-understanding-kubernetes-resources-management-8b6188d3b9b6?source=rss-48481e69a62f------2)
-- [Flutter Android — CI/CD using Jenkins and Firebase App Distribution: Part 2](https://boottechnologies-ci.medium.com/flutter-android-ci-cd-using-jenkins-and-firebase-app-distribution-part-2-d8154def97a0?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

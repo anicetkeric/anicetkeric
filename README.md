@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Embedded PostgreSQL Database for Testing](https://boottechnologies-ci.medium.com/spring-boot-embedded-postgresql-database-for-testing-31fcebaaccff?source=rss-48481e69a62f------2)
 - [Spring Reactive Logging using Zalando Logbook and Elastic Stack](https://boottechnologies-ci.medium.com/spring-reactive-logging-using-zalando-logbook-and-elastic-stack-bf642c216cf4?source=rss-48481e69a62f------2)
 - [Spring Boot CRUD Rest API with MS SQL Server](https://boottechnologies-ci.medium.com/spring-boot-crud-rest-api-with-ms-sql-server-c8d3b9ab81f8?source=rss-48481e69a62f------2)
 - [Advanced Sort and Filtering REST API Using Spring Data and MongoDB](https://boottechnologies-ci.medium.com/advanced-sort-and-filtering-rest-api-using-spring-data-and-mongodb-3e2f1140a189?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Lab8 &lpar;Spring Boot/K8S&rpar;: Deploy a Spring Boot application on Kubernetes using Helm Chart](https://boottechnologies-ci.medium.com/lab8-spring-boot-k8s-deploy-a-spring-boot-application-on-kubernetes-using-helm-chart-9847a11633cc?source=rss-48481e69a62f------2)
 - [Lab7 &lpar;Spring Boot/K8S&rpar;: Spring Batch on Kubernetes — Jobs and CronJobs](https://boottechnologies-ci.medium.com/lab7-spring-boot-k8s-spring-batch-on-kubernetes-jobs-and-cronjobs-d75344fec5af?source=rss-48481e69a62f------2)
 - [RabbitMQ Producer and Consumer with Reactor RabbitMQ and Spring WebFlux](https://boottechnologies-ci.medium.com/rabbitmq-producer-and-consumer-with-reactor-rabbitmq-and-spring-webflux-105ea27f951c?source=rss-48481e69a62f------2)
-- [Lab6 &lpar;Spring Boot/K8S&rpar;: Persistent Volumes in Kubernetes](https://boottechnologies-ci.medium.com/lab6-spring-boot-k8s-persistent-volumes-in-kubernetes-11434bbaa588?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing Spring Boot REST API with Spring Security Digest Authentication](https://boottechnologies-ci.medium.com/securing-spring-boot-rest-api-with-spring-security-digest-authentication-823bcf7ff72c?source=rss-48481e69a62f------2)
 - [Spring Boot Embedded PostgreSQL Database for Testing](https://boottechnologies-ci.medium.com/spring-boot-embedded-postgresql-database-for-testing-31fcebaaccff?source=rss-48481e69a62f------2)
 - [Spring Reactive Logging using Zalando Logbook and Elastic Stack](https://boottechnologies-ci.medium.com/spring-reactive-logging-using-zalando-logbook-and-elastic-stack-bf642c216cf4?source=rss-48481e69a62f------2)
 - [Spring Boot CRUD Rest API with MS SQL Server](https://boottechnologies-ci.medium.com/spring-boot-crud-rest-api-with-ms-sql-server-c8d3b9ab81f8?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Monitoring a Spring Boot app using Prometheus and Grafana](https://boottechnologies-ci.medium.com/monitoring-a-spring-boot-app-using-prometheus-and-grafana-fbeb9d973667?source=rss-48481e69a62f------2)
 - [Lab8 &lpar;Spring Boot/K8S&rpar;: Deploy a Spring Boot application on Kubernetes using Helm Chart](https://boottechnologies-ci.medium.com/lab8-spring-boot-k8s-deploy-a-spring-boot-application-on-kubernetes-using-helm-chart-9847a11633cc?source=rss-48481e69a62f------2)
 - [Lab7 &lpar;Spring Boot/K8S&rpar;: Spring Batch on Kubernetes — Jobs and CronJobs](https://boottechnologies-ci.medium.com/lab7-spring-boot-k8s-spring-batch-on-kubernetes-jobs-and-cronjobs-d75344fec5af?source=rss-48481e69a62f------2)
-- [RabbitMQ Producer and Consumer with Reactor RabbitMQ and Spring WebFlux](https://boottechnologies-ci.medium.com/rabbitmq-producer-and-consumer-with-reactor-rabbitmq-and-spring-webflux-105ea27f951c?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

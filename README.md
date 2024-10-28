@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data - Easy MongoDB Migration Using Mongock](https://boottechnologies-ci.medium.com/spring-data-easy-mongodb-migration-using-mongock-6642f41db18f?source=rss-48481e69a62f------2)
 - [Database Migrations in a Spring Boot application using Flyway](https://boottechnologies-ci.medium.com/database-migrations-in-a-spring-boot-application-using-flyway-399a9da29208?source=rss-48481e69a62f------2)
 - [Build a Real-Time App with Spring Boot and Flutter](https://boottechnologies-ci.medium.com/build-a-real-time-app-with-spring-boot-and-flutter-7e7fd9284002?source=rss-48481e69a62f------2)
 - [Jenkins monitoring with Prometheus and Grafana](https://boottechnologies-ci.medium.com/jenkins-monitoring-with-prometheus-and-grafana-7fe634c2fe55?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot CRUD Rest API with MS SQL Server](https://boottechnologies-ci.medium.com/spring-boot-crud-rest-api-with-ms-sql-server-c8d3b9ab81f8?source=rss-48481e69a62f------2)
 - [Advanced Sort and Filtering REST API Using Spring Data and MongoDB](https://boottechnologies-ci.medium.com/advanced-sort-and-filtering-rest-api-using-spring-data-and-mongodb-3e2f1140a189?source=rss-48481e69a62f------2)
 - [Lab9 &lpar;Spring Boot/K8S&rpar;: Understanding Kubernetes DaemonSet](https://boottechnologies-ci.medium.com/lab9-spring-boot-k8s-understanding-kubernetes-daemonset-c1c12ea7c7ea?source=rss-48481e69a62f------2)
-- [Reuse a Pipeline with Jenkins Shared Library](https://boottechnologies-ci.medium.com/reuse-a-pipeline-with-jenkins-shared-library-1bd1f428c247?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

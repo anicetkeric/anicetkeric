@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Scope of Beans in Spring Framework](https://boottechnologies-ci.medium.com/scope-of-beans-in-spring-framework-ff4b11fae14c?source=rss-48481e69a62f------2)
 - [Understanding Spring Stereotype Annotations](https://boottechnologies-ci.medium.com/understanding-spring-stereotype-annotations-72ac0effeb71?source=rss-48481e69a62f------2)
 - [Spring Data - Easy MongoDB Migration Using Mongock](https://boottechnologies-ci.medium.com/spring-data-easy-mongodb-migration-using-mongock-6642f41db18f?source=rss-48481e69a62f------2)
 - [Database Migrations in a Spring Boot application using Flyway](https://boottechnologies-ci.medium.com/database-migrations-in-a-spring-boot-application-using-flyway-399a9da29208?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot Embedded PostgreSQL Database for Testing](https://boottechnologies-ci.medium.com/spring-boot-embedded-postgresql-database-for-testing-31fcebaaccff?source=rss-48481e69a62f------2)
 - [Spring Reactive Logging using Zalando Logbook and Elastic Stack](https://boottechnologies-ci.medium.com/spring-reactive-logging-using-zalando-logbook-and-elastic-stack-bf642c216cf4?source=rss-48481e69a62f------2)
 - [Spring Boot CRUD Rest API with MS SQL Server](https://boottechnologies-ci.medium.com/spring-boot-crud-rest-api-with-ms-sql-server-c8d3b9ab81f8?source=rss-48481e69a62f------2)
-- [Advanced Sort and Filtering REST API Using Spring Data and MongoDB](https://boottechnologies-ci.medium.com/advanced-sort-and-filtering-rest-api-using-spring-data-and-mongodb-3e2f1140a189?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

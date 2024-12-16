@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot 3.x Embedded MongoDB for Integration Testing](https://boottechnologies-ci.medium.com/spring-boot-3-x-embedded-mongodb-for-integration-testing-7a92ff4b46b2?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Unit Testing project Architecture with ArchUnit](https://boottechnologies-ci.medium.com/spring-boot-3-unit-testing-project-architecture-with-archunit-9b7a4a31271a?source=rss-48481e69a62f------2)
 - [Spring Boot Rest API using JDBC Core](https://boottechnologies-ci.medium.com/spring-boot-rest-api-using-jdbc-core-05f49f5534d6?source=rss-48481e69a62f------2)
 - [Custom Banner in Spring Boot](https://boottechnologies-ci.medium.com/custom-banner-in-spring-boot-40f0717b5180?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Database Migrations in a Spring Boot application using Flyway](https://boottechnologies-ci.medium.com/database-migrations-in-a-spring-boot-application-using-flyway-399a9da29208?source=rss-48481e69a62f------2)
 - [Build a Real-Time App with Spring Boot and Flutter](https://boottechnologies-ci.medium.com/build-a-real-time-app-with-spring-boot-and-flutter-7e7fd9284002?source=rss-48481e69a62f------2)
 - [Jenkins monitoring with Prometheus and Grafana](https://boottechnologies-ci.medium.com/jenkins-monitoring-with-prometheus-and-grafana-7fe634c2fe55?source=rss-48481e69a62f------2)
-- [Securing Spring Boot REST API with Spring Security Digest Authentication](https://boottechnologies-ci.medium.com/securing-spring-boot-rest-api-with-spring-security-digest-authentication-823bcf7ff72c?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

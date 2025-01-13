@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security 6 — Multiple SecurityFilterChain instances](https://boottechnologies-ci.medium.com/spring-security-6-multiple-securityfilterchain-instances-e63c328fa932?source=rss-48481e69a62f------2)
 - [TOTP-based Two Factor Authentication implementation with Spring Security and Angular 18](https://boottechnologies-ci.medium.com/totp-based-two-factor-authentication-implementation-with-spring-security-and-angular-18-d9b6747837a1?source=rss-48481e69a62f------2)
 - [Spring Boot 3.x Embedded MongoDB for Integration Testing](https://boottechnologies-ci.medium.com/spring-boot-3-x-embedded-mongodb-for-integration-testing-7a92ff4b46b2?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Unit Testing project Architecture with ArchUnit](https://boottechnologies-ci.medium.com/spring-boot-3-unit-testing-project-architecture-with-archunit-9b7a4a31271a?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Understanding Spring Stereotype Annotations](https://boottechnologies-ci.medium.com/understanding-spring-stereotype-annotations-72ac0effeb71?source=rss-48481e69a62f------2)
 - [Spring Data - Easy MongoDB Migration Using Mongock](https://boottechnologies-ci.medium.com/spring-data-easy-mongodb-migration-using-mongock-6642f41db18f?source=rss-48481e69a62f------2)
 - [Database Migrations in a Spring Boot application using Flyway](https://boottechnologies-ci.medium.com/database-migrations-in-a-spring-boot-application-using-flyway-399a9da29208?source=rss-48481e69a62f------2)
-- [Build a Real-Time App with Spring Boot and Flutter](https://boottechnologies-ci.medium.com/build-a-real-time-app-with-spring-boot-and-flutter-7e7fd9284002?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

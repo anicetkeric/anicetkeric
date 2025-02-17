@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Minio Object Store with Spring Boot 3](https://boottechnologies-ci.medium.com/minio-object-store-with-spring-boot-3-5a0adbac3eed?source=rss-48481e69a62f------2)
 - [Lab10 &lpar;Spring Boot/K8S&rpar;: Frontend deployment with Angular 19 on Kubernetes](https://boottechnologies-ci.medium.com/lab10-spring-boot-k8s-frontend-deployment-with-angular-19-on-kubernetes-53f370769b19?source=rss-48481e69a62f------2)
 - [Spring Security 6 — Multiple SecurityFilterChain instances](https://boottechnologies-ci.medium.com/spring-security-6-multiple-securityfilterchain-instances-e63c328fa932?source=rss-48481e69a62f------2)
 - [TOTP-based Two Factor Authentication implementation with Spring Security and Angular 18](https://boottechnologies-ci.medium.com/totp-based-two-factor-authentication-implementation-with-spring-security-and-angular-18-d9b6747837a1?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Custom Banner in Spring Boot](https://boottechnologies-ci.medium.com/custom-banner-in-spring-boot-40f0717b5180?source=rss-48481e69a62f------2)
 - [Scope of Beans in Spring Framework](https://boottechnologies-ci.medium.com/scope-of-beans-in-spring-framework-ff4b11fae14c?source=rss-48481e69a62f------2)
 - [Understanding Spring Stereotype Annotations](https://boottechnologies-ci.medium.com/understanding-spring-stereotype-annotations-72ac0effeb71?source=rss-48481e69a62f------2)
-- [Spring Data - Easy MongoDB Migration Using Mongock](https://boottechnologies-ci.medium.com/spring-data-easy-mongodb-migration-using-mongock-6642f41db18f?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

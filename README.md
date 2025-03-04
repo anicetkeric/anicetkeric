@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Spring Data JPA with PostgreSQL Views](https://boottechnologies-ci.medium.com/using-spring-data-jpa-with-postgresql-views-81dcc4e8acac?source=rss-48481e69a62f------2)
 - [Java Stream API: Exploring Collectors.teeing&lpar;&rpar; collector](https://boottechnologies-ci.medium.com/java-stream-api-exploring-collectors-teeing-collector-16f260e9c492?source=rss-48481e69a62f------2)
 - [Minio Object Store with Spring Boot 3](https://boottechnologies-ci.medium.com/minio-object-store-with-spring-boot-3-5a0adbac3eed?source=rss-48481e69a62f------2)
 - [Lab10 &lpar;Spring Boot/K8S&rpar;: Frontend deployment with Angular 19 on Kubernetes](https://boottechnologies-ci.medium.com/lab10-spring-boot-k8s-frontend-deployment-with-angular-19-on-kubernetes-53f370769b19?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot 3 — Unit Testing project Architecture with ArchUnit](https://boottechnologies-ci.medium.com/spring-boot-3-unit-testing-project-architecture-with-archunit-9b7a4a31271a?source=rss-48481e69a62f------2)
 - [Spring Boot Rest API using JDBC Core](https://boottechnologies-ci.medium.com/spring-boot-rest-api-using-jdbc-core-05f49f5534d6?source=rss-48481e69a62f------2)
 - [Custom Banner in Spring Boot](https://boottechnologies-ci.medium.com/custom-banner-in-spring-boot-40f0717b5180?source=rss-48481e69a62f------2)
-- [Scope of Beans in Spring Framework](https://boottechnologies-ci.medium.com/scope-of-beans-in-spring-framework-ff4b11fae14c?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

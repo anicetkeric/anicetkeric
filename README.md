@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Strategy Design Pattern Using Java Enum](https://boottechnologies-ci.medium.com/strategy-design-pattern-using-java-enum-7314ed316ef7?source=rss-48481e69a62f------2)
 - [Spring Boot 3 REST API — Barcode and QR Code Generation](https://boottechnologies-ci.medium.com/spring-boot-3-rest-api-barcode-and-qr-code-generation-bde8bea4649a?source=rss-48481e69a62f------2)
 - [Using Spring Data JPA with PostgreSQL Views](https://boottechnologies-ci.medium.com/using-spring-data-jpa-with-postgresql-views-81dcc4e8acac?source=rss-48481e69a62f------2)
 - [Java Stream API: Exploring Collectors.teeing&lpar;&rpar; collector](https://boottechnologies-ci.medium.com/java-stream-api-exploring-collectors-teeing-collector-16f260e9c492?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [TOTP-based Two Factor Authentication implementation with Spring Security and Angular 18](https://boottechnologies-ci.medium.com/totp-based-two-factor-authentication-implementation-with-spring-security-and-angular-18-d9b6747837a1?source=rss-48481e69a62f------2)
 - [Spring Boot 3.x Embedded MongoDB for Integration Testing](https://boottechnologies-ci.medium.com/spring-boot-3-x-embedded-mongodb-for-integration-testing-7a92ff4b46b2?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Unit Testing project Architecture with ArchUnit](https://boottechnologies-ci.medium.com/spring-boot-3-unit-testing-project-architecture-with-archunit-9b7a4a31271a?source=rss-48481e69a62f------2)
-- [Spring Boot Rest API using JDBC Core](https://boottechnologies-ci.medium.com/spring-boot-rest-api-using-jdbc-core-05f49f5534d6?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

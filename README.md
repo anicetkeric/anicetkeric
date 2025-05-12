@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Keycloak — Multi-Tenancy with Organizations](https://boottechnologies-ci.medium.com/keycloak-multi-tenancy-with-organizations-16531c978c6d?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Keycloak Admin Client integration](https://boottechnologies-ci.medium.com/spring-boot-3-keycloak-admin-client-integration-e18cdac198aa?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Manage Secrets using HashiCorp Vault and PostgreSQL as Backend: Part 2](https://boottechnologies-ci.medium.com/spring-boot-3-manage-secrets-using-hashicorp-vault-and-postgresql-as-backend-part-2-c3173304cf9c?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Manage Secrets using HashiCorp Vault and PostgreSQL as Backend: Part 1](https://boottechnologies-ci.medium.com/spring-boot-3-manage-secrets-using-hashicorp-vault-and-postgresql-as-backend-part-1-3b4c4bfb8c09?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Using Spring Data JPA with PostgreSQL Views](https://boottechnologies-ci.medium.com/using-spring-data-jpa-with-postgresql-views-81dcc4e8acac?source=rss-48481e69a62f------2)
 - [Java Stream API: Exploring Collectors.teeing&lpar;&rpar; collector](https://boottechnologies-ci.medium.com/java-stream-api-exploring-collectors-teeing-collector-16f260e9c492?source=rss-48481e69a62f------2)
 - [Minio Object Store with Spring Boot 3](https://boottechnologies-ci.medium.com/minio-object-store-with-spring-boot-3-5a0adbac3eed?source=rss-48481e69a62f------2)
-- [Lab10 &lpar;Spring Boot/K8S&rpar;: Frontend deployment with Angular 19 on Kubernetes](https://boottechnologies-ci.medium.com/lab10-spring-boot-k8s-frontend-deployment-with-angular-19-on-kubernetes-53f370769b19?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

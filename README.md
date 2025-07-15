@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Keycloak Theme Customization using Maven and FreeMarker](https://boottechnologies-ci.medium.com/mastering-keycloak-theme-customization-using-maven-and-freemarker-f929770c4463?source=rss-48481e69a62f------2)
 - [Modern Caching with Redis in Spring Boot 3 Applications](https://boottechnologies-ci.medium.com/modern-caching-with-redis-in-spring-boot-3-applications-a99dccebbbad?source=rss-48481e69a62f------2)
 - [Spring Cloud Gateway OpenID Connect with Keycloak](https://boottechnologies-ci.medium.com/spring-cloud-gateway-openid-connect-with-keycloak-588d6074484c?source=rss-48481e69a62f------2)
 - [Spring Framework 6.2 — Fallback Annotation](https://boottechnologies-ci.medium.com/spring-framework-6-2-fallback-annotation-051e046ce182?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot 3 — Manage Secrets using HashiCorp Vault and PostgreSQL as Backend: Part 1](https://boottechnologies-ci.medium.com/spring-boot-3-manage-secrets-using-hashicorp-vault-and-postgresql-as-backend-part-1-3b4c4bfb8c09?source=rss-48481e69a62f------2)
 - [Manage Keycloak using Admin REST API](https://boottechnologies-ci.medium.com/manage-keycloak-using-admin-rest-api-1c1725f3f314?source=rss-48481e69a62f------2)
 - [Strategy Design Pattern Using Java Enum](https://boottechnologies-ci.medium.com/strategy-design-pattern-using-java-enum-7314ed316ef7?source=rss-48481e69a62f------2)
-- [Spring Boot 3 REST API — Barcode and QR Code Generation](https://boottechnologies-ci.medium.com/spring-boot-3-rest-api-barcode-and-qr-code-generation-bde8bea4649a?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

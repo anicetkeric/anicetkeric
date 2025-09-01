@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Hibernate &amp; Spring Data JPA Logging](https://boottechnologies-ci.medium.com/mastering-hibernate-spring-data-jpa-logging-90ec53f3801a?source=rss-48481e69a62f------2)
 - [Updating Resources in Spring Boot 3: PUT vs PATCH Explained](https://boottechnologies-ci.medium.com/updating-resources-in-spring-boot-3-put-vs-patch-explained-5afb8c6152e0?source=rss-48481e69a62f------2)
 - [Mastering Keycloak Theme Customization using Maven and FreeMarker](https://boottechnologies-ci.medium.com/mastering-keycloak-theme-customization-using-maven-and-freemarker-f929770c4463?source=rss-48481e69a62f------2)
 - [Modern Caching with Redis in Spring Boot 3 Applications](https://boottechnologies-ci.medium.com/modern-caching-with-redis-in-spring-boot-3-applications-a99dccebbbad?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Boot 3 — Keycloak Admin Client integration](https://boottechnologies-ci.medium.com/spring-boot-3-keycloak-admin-client-integration-e18cdac198aa?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Manage Secrets using HashiCorp Vault and PostgreSQL as Backend: Part 2](https://boottechnologies-ci.medium.com/spring-boot-3-manage-secrets-using-hashicorp-vault-and-postgresql-as-backend-part-2-c3173304cf9c?source=rss-48481e69a62f------2)
 - [Spring Boot 3 — Manage Secrets using HashiCorp Vault and PostgreSQL as Backend: Part 1](https://boottechnologies-ci.medium.com/spring-boot-3-manage-secrets-using-hashicorp-vault-and-postgresql-as-backend-part-1-3b4c4bfb8c09?source=rss-48481e69a62f------2)
-- [Manage Keycloak using Admin REST API](https://boottechnologies-ci.medium.com/manage-keycloak-using-admin-rest-api-1c1725f3f314?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

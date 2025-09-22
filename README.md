@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Complex JPA Queries with Hibernate @Formula Annotation](https://boottechnologies-ci.medium.com/simplifying-complex-jpa-queries-with-hibernate-formula-annotation-ff08454ca7f9?source=rss-48481e69a62f------2)
 - [Keycloak Custom SPI and Database Extensions: Adding Your Own Tables 2/2](https://boottechnologies-ci.medium.com/keycloak-custom-spi-and-database-extensions-adding-your-own-tables-2-2-bf8273af3c4d?source=rss-48481e69a62f------2)
 - [Keycloak Custom SPI and Database Extensions: Adding Your Own Tables 1/2](https://boottechnologies-ci.medium.com/keycloak-custom-spi-and-database-extensions-adding-your-own-tables-1-2-520128bd6ccb?source=rss-48481e69a62f------2)
 - [Mastering Hibernate &amp; Spring Data JPA Logging](https://boottechnologies-ci.medium.com/mastering-hibernate-spring-data-jpa-logging-90ec53f3801a?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Cloud Gateway OpenID Connect with Keycloak](https://boottechnologies-ci.medium.com/spring-cloud-gateway-openid-connect-with-keycloak-588d6074484c?source=rss-48481e69a62f------2)
 - [Spring Framework 6.2 — Fallback Annotation](https://boottechnologies-ci.medium.com/spring-framework-6-2-fallback-annotation-051e046ce182?source=rss-48481e69a62f------2)
 - [Keycloak — Multi-Tenancy with Organizations](https://boottechnologies-ci.medium.com/keycloak-multi-tenancy-with-organizations-16531c978c6d?source=rss-48481e69a62f------2)
-- [Spring Boot 3 — Keycloak Admin Client integration](https://boottechnologies-ci.medium.com/spring-boot-3-keycloak-admin-client-integration-e18cdac198aa?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

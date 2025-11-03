@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins Single Sign-On &lpar;SSO&rpar; with Keycloak using OpenID Connect](https://boottechnologies-ci.medium.com/jenkins-single-sign-on-sso-with-keycloak-using-openid-connect-28768a2f4719?source=rss-48481e69a62f------2)
 - [Building Robust API Clients with RestClient in Spring Boot 3.X](https://boottechnologies-ci.medium.com/building-robust-api-clients-with-restclient-in-spring-boot-3-x-d7593fc8f6d3?source=rss-48481e69a62f------2)
 - [Simplifying Complex JPA Queries with Hibernate @Formula Annotation](https://boottechnologies-ci.medium.com/simplifying-complex-jpa-queries-with-hibernate-formula-annotation-ff08454ca7f9?source=rss-48481e69a62f------2)
 - [Keycloak Custom SPI and Database Extensions: Adding Your Own Tables 2/2](https://boottechnologies-ci.medium.com/keycloak-custom-spi-and-database-extensions-adding-your-own-tables-2-2-bf8273af3c4d?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Mastering Keycloak Theme Customization using Maven and FreeMarker](https://boottechnologies-ci.medium.com/mastering-keycloak-theme-customization-using-maven-and-freemarker-f929770c4463?source=rss-48481e69a62f------2)
 - [Modern Caching with Redis in Spring Boot 3 Applications](https://boottechnologies-ci.medium.com/modern-caching-with-redis-in-spring-boot-3-applications-a99dccebbbad?source=rss-48481e69a62f------2)
 - [Spring Cloud Gateway OpenID Connect with Keycloak](https://boottechnologies-ci.medium.com/spring-cloud-gateway-openid-connect-with-keycloak-588d6074484c?source=rss-48481e69a62f------2)
-- [Spring Framework 6.2 — Fallback Annotation](https://boottechnologies-ci.medium.com/spring-framework-6-2-fallback-annotation-051e046ce182?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

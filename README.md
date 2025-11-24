@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero-Dockerfile Spring Boot Containerization Using Jib](https://boottechnologies-ci.medium.com/zero-dockerfile-spring-boot-containerization-using-jib-db355e6401dd?source=rss-48481e69a62f------2)
 - [From Excel to Database: Using Apache POI in Spring Boot to Automate Data Processing](https://boottechnologies-ci.medium.com/from-excel-to-database-using-apache-poi-in-spring-boot-to-automate-data-processing-4cd4d22b041e?source=rss-48481e69a62f------2)
 - [Jenkins Single Sign-On &lpar;SSO&rpar; with Keycloak using OpenID Connect](https://boottechnologies-ci.medium.com/jenkins-single-sign-on-sso-with-keycloak-using-openid-connect-28768a2f4719?source=rss-48481e69a62f------2)
 - [Building Robust API Clients with RestClient in Spring Boot 3.X](https://boottechnologies-ci.medium.com/building-robust-api-clients-with-restclient-in-spring-boot-3-x-d7593fc8f6d3?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Mastering Hibernate &amp; Spring Data JPA Logging](https://boottechnologies-ci.medium.com/mastering-hibernate-spring-data-jpa-logging-90ec53f3801a?source=rss-48481e69a62f------2)
 - [Updating Resources in Spring Boot 3: PUT vs PATCH Explained](https://boottechnologies-ci.medium.com/updating-resources-in-spring-boot-3-put-vs-patch-explained-5afb8c6152e0?source=rss-48481e69a62f------2)
 - [Mastering Keycloak Theme Customization using Maven and FreeMarker](https://boottechnologies-ci.medium.com/mastering-keycloak-theme-customization-using-maven-and-freemarker-f929770c4463?source=rss-48481e69a62f------2)
-- [Modern Caching with Redis in Spring Boot 3 Applications](https://boottechnologies-ci.medium.com/modern-caching-with-redis-in-spring-boot-3-applications-a99dccebbbad?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Rate Limiting with Spring Cloud Gateway and Redis](https://boottechnologies-ci.medium.com/rate-limiting-with-spring-cloud-gateway-and-redis-30ff7ba1a668?source=rss-48481e69a62f------2)
 - [Keycloak for Smart Devices: A Practical Guide to Device Code Flow 2/2](https://boottechnologies-ci.medium.com/keycloak-for-smart-devices-a-practical-guide-to-device-code-flow-2-2-4a65878867cb?source=rss-48481e69a62f------2)
 - [Keycloak for Smart Devices: A Practical Guide to Device Code Flow 1/2](https://boottechnologies-ci.medium.com/keycloak-for-smart-devices-a-practical-guide-to-device-code-flow-1-2-ed3a7152be5d?source=rss-48481e69a62f------2)
 - [Zero-Dockerfile Spring Boot Containerization Using Jib](https://boottechnologies-ci.medium.com/zero-dockerfile-spring-boot-containerization-using-jib-db355e6401dd?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Simplifying Complex JPA Queries with Hibernate @Formula Annotation](https://boottechnologies-ci.medium.com/simplifying-complex-jpa-queries-with-hibernate-formula-annotation-ff08454ca7f9?source=rss-48481e69a62f------2)
 - [Keycloak Custom SPI and Database Extensions: Adding Your Own Tables 2/2](https://boottechnologies-ci.medium.com/keycloak-custom-spi-and-database-extensions-adding-your-own-tables-2-2-bf8273af3c4d?source=rss-48481e69a62f------2)
 - [Keycloak Custom SPI and Database Extensions: Adding Your Own Tables 1/2](https://boottechnologies-ci.medium.com/keycloak-custom-spi-and-database-extensions-adding-your-own-tables-1-2-520128bd6ccb?source=rss-48481e69a62f------2)
-- [Mastering Hibernate &amp; Spring Data JPA Logging](https://boottechnologies-ci.medium.com/mastering-hibernate-spring-data-jpa-logging-90ec53f3801a?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Centralized Logging: Spring Boot Meets Grafana, Alloy, and Loki](https://boottechnologies-ci.medium.com/centralized-logging-spring-boot-meets-grafana-alloy-and-loki-7d99f430ab83?source=rss-48481e69a62f------2)
 - [Production-Ready Retry Mechanisms with Spring Retry in Spring Boot](https://boottechnologies-ci.medium.com/production-ready-retry-mechanisms-with-spring-retry-in-spring-boot-00bd6e364063?source=rss-48481e69a62f------2)
 - [Rate Limiting with Spring Cloud Gateway and Redis](https://boottechnologies-ci.medium.com/rate-limiting-with-spring-cloud-gateway-and-redis-30ff7ba1a668?source=rss-48481e69a62f------2)
 - [Keycloak for Smart Devices: A Practical Guide to Device Code Flow 2/2](https://boottechnologies-ci.medium.com/keycloak-for-smart-devices-a-practical-guide-to-device-code-flow-2-2-4a65878867cb?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Jenkins Single Sign-On &lpar;SSO&rpar; with Keycloak using OpenID Connect](https://boottechnologies-ci.medium.com/jenkins-single-sign-on-sso-with-keycloak-using-openid-connect-28768a2f4719?source=rss-48481e69a62f------2)
 - [Building Robust API Clients with RestClient in Spring Boot 3.X](https://boottechnologies-ci.medium.com/building-robust-api-clients-with-restclient-in-spring-boot-3-x-d7593fc8f6d3?source=rss-48481e69a62f------2)
 - [Simplifying Complex JPA Queries with Hibernate @Formula Annotation](https://boottechnologies-ci.medium.com/simplifying-complex-jpa-queries-with-hibernate-formula-annotation-ff08454ca7f9?source=rss-48481e69a62f------2)
-- [Keycloak Custom SPI and Database Extensions: Adding Your Own Tables 2/2](https://boottechnologies-ci.medium.com/keycloak-custom-spi-and-database-extensions-adding-your-own-tables-2-2-bf8273af3c4d?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

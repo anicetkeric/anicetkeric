@@ -18,14 +18,14 @@
 - [Jenkins Single Sign-On &lpar;SSO&rpar; with Keycloak using OpenID Connect](https://boottechnologies-ci.medium.com/jenkins-single-sign-on-sso-with-keycloak-using-openid-connect-28768a2f4719?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/AnicetKEric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yyy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eric-anicet-kouame-49029577/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-anicet-kouame" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7968003/anicetkeric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anicetkeric" height="30" width="40" /></a>
-<a href="https://medium.com/@boottechnologies-ci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@boottechnologies-ci" height="30" width="40" /></a>
-<a href="https://dzone.com/users/2843336/aek.html" target="blank"><img align="center" src="https://github.com/anicetkeric/anicetkeric/blob/main/images/dzone.png" alt="aek" height="30" width="40" /></a>
-</p>
+### 🌐 Connect with me:
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat\&logo=twitter\&logoColor=white)](https://twitter.com/AnicetKEric)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/eric-anicet-kouame-49029577/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/7968003/anicetkeric)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat\&logo=medium\&logoColor=white)](https://medium.com/@boottechnologies-ci)
+[![DZone](https://img.shields.io/badge/-DZone-000000?style=flat\&logo=dev.to\&logoColor=white)](https://dzone.com/users/2843336/aek.html)
+
 
 ### 🚀 Languages and Tools:
 

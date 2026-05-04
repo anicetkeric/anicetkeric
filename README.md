@@ -21,7 +21,7 @@
 ### 🌐 Connect with me:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat\&logo=twitter\&logoColor=white)](https://twitter.com/AnicetKEric)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/eric-anicet-kouame-49029577/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/eric-anicet-k/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/7968003/anicetkeric)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat\&logo=medium\&logoColor=white)](https://medium.com/@boottechnologies-ci)
 [![DZone](https://img.shields.io/badge/-DZone-000000?style=flat\&logo=dev.to\&logoColor=white)](https://dzone.com/users/2843336/aek.html)

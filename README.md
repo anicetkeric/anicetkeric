@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond console.log&lpar;&rpar;: Exploring the Console Object in JavaScript](https://boottechnologies-ci.medium.com/beyond-console-log-exploring-the-console-object-in-javascript-d2d35c5ffc55?source=rss-48481e69a62f------2)
 - [Enforcing Clean Architecture in Spring Boot Using Taikai](https://boottechnologies-ci.medium.com/enforcing-clean-architecture-in-spring-boot-using-taikai-84a52551778d?source=rss-48481e69a62f------2)
 - [Efficient Soft Delete in Spring Boot JPA: Implementation Guide &amp; Best Practices](https://boottechnologies-ci.medium.com/efficient-soft-delete-in-spring-boot-jpa-implementation-guide-best-practices-c1bb9f983a3b?source=rss-48481e69a62f------2)
 - [Fast, Cheap, and Scalable File Uploads with Spring Boot and Cloudflare R2](https://boottechnologies-ci.medium.com/fast-cheap-and-scalable-file-uploads-with-spring-boot-and-cloudflare-r2-0e762c3ba5d1?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Keycloak for Smart Devices: A Practical Guide to Device Code Flow 2/2](https://boottechnologies-ci.medium.com/keycloak-for-smart-devices-a-practical-guide-to-device-code-flow-2-2-4a65878867cb?source=rss-48481e69a62f------2)
 - [Keycloak for Smart Devices: A Practical Guide to Device Code Flow 1/2](https://boottechnologies-ci.medium.com/keycloak-for-smart-devices-a-practical-guide-to-device-code-flow-1-2-ed3a7152be5d?source=rss-48481e69a62f------2)
 - [Zero-Dockerfile Spring Boot Containerization Using Jib](https://boottechnologies-ci.medium.com/zero-dockerfile-spring-boot-containerization-using-jib-db355e6401dd?source=rss-48481e69a62f------2)
-- [From Excel to Database: Using Apache POI in Spring Boot to Automate Data Processing](https://boottechnologies-ci.medium.com/from-excel-to-database-using-apache-poi-in-spring-boot-to-automate-data-processing-4cd4d22b041e?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:

@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a URL Shortener Design System with Spring Boot 4 and Redis](https://boottechnologies-ci.medium.com/building-a-url-shortener-design-system-with-spring-boot-4-and-redis-32e7d093bc06?source=rss-48481e69a62f------2)
 - [Automating Business Decisions with Spring Boot and Drools](https://boottechnologies-ci.medium.com/automating-business-decisions-with-spring-boot-and-drools-2cdae4b7a33d?source=rss-48481e69a62f------2)
 - [Redis Streams as a Message Broker with Spring Boot](https://boottechnologies-ci.medium.com/redis-streams-as-a-message-broker-with-spring-boot-0a902b45bdd0?source=rss-48481e69a62f------2)
 - [Angular SPA Authentication with Keycloak: No Backend Required](https://boottechnologies-ci.medium.com/angular-spa-authentication-with-keycloak-no-backend-required-45e5f88ebf8e?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Efficient Soft Delete in Spring Boot JPA: Implementation Guide &amp; Best Practices](https://boottechnologies-ci.medium.com/efficient-soft-delete-in-spring-boot-jpa-implementation-guide-best-practices-c1bb9f983a3b?source=rss-48481e69a62f------2)
 - [Fast, Cheap, and Scalable File Uploads with Spring Boot and Cloudflare R2](https://boottechnologies-ci.medium.com/fast-cheap-and-scalable-file-uploads-with-spring-boot-and-cloudflare-r2-0e762c3ba5d1?source=rss-48481e69a62f------2)
 - [Centralized Logging: Spring Boot Meets Grafana, Alloy, and Loki](https://boottechnologies-ci.medium.com/centralized-logging-spring-boot-meets-grafana-alloy-and-loki-7d99f430ab83?source=rss-48481e69a62f------2)
-- [Production-Ready Retry Mechanisms with Spring Retry in Spring Boot](https://boottechnologies-ci.medium.com/production-ready-retry-mechanisms-with-spring-retry-in-spring-boot-00bd6e364063?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:

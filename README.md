@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [60-Day Kafka 4 Learning Plan · Week 1 — Day 3 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-3-of-60-029e0e3eff67?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 2 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-2-of-60-c074bcdeac1b?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 1 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-1-of-60-95bc335dec92?source=rss-48481e69a62f------2)
 - [Building a URL Shortener Design System with Spring Boot 4 and Redis](https://boottechnologies-ci.medium.com/building-a-url-shortener-design-system-with-spring-boot-4-and-redis-32e7d093bc06?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Hands-On Redis Pub/Sub with Spring Boot for Fast and Lightweight Messaging](https://boottechnologies-ci.medium.com/hands-on-redis-pub-sub-with-spring-boot-for-fast-and-lightweight-messaging-bf2e3dd2894f?source=rss-48481e69a62f------2)
 - [Beyond console.log&lpar;&rpar;: Exploring the Console Object in JavaScript](https://boottechnologies-ci.medium.com/beyond-console-log-exploring-the-console-object-in-javascript-d2d35c5ffc55?source=rss-48481e69a62f------2)
 - [Enforcing Clean Architecture in Spring Boot Using Taikai](https://boottechnologies-ci.medium.com/enforcing-clean-architecture-in-spring-boot-using-taikai-84a52551778d?source=rss-48481e69a62f------2)
-- [Efficient Soft Delete in Spring Boot JPA: Implementation Guide &amp; Best Practices](https://boottechnologies-ci.medium.com/efficient-soft-delete-in-spring-boot-jpa-implementation-guide-best-practices-c1bb9f983a3b?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:

@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [60-Day Kafka 4 Learning Plan · Week 1 — Day 6 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-6-of-60-363d7c3e4841?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 5 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-5-of-60-01e6cb266132?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 4 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-4-of-60-81c3fa8e8eac?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 3 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-3-of-60-029e0e3eff67?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Automating Business Decisions with Spring Boot and Drools](https://boottechnologies-ci.medium.com/automating-business-decisions-with-spring-boot-and-drools-2cdae4b7a33d?source=rss-48481e69a62f------2)
 - [Redis Streams as a Message Broker with Spring Boot](https://boottechnologies-ci.medium.com/redis-streams-as-a-message-broker-with-spring-boot-0a902b45bdd0?source=rss-48481e69a62f------2)
 - [Angular SPA Authentication with Keycloak: No Backend Required](https://boottechnologies-ci.medium.com/angular-spa-authentication-with-keycloak-no-backend-required-45e5f88ebf8e?source=rss-48481e69a62f------2)
-- [Hands-On Redis Pub/Sub with Spring Boot for Fast and Lightweight Messaging](https://boottechnologies-ci.medium.com/hands-on-redis-pub-sub-with-spring-boot-for-fast-and-lightweight-messaging-bf2e3dd2894f?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:

@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [60-Day Kafka 4 Learning Plan · Week 2— Day 8 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-2-day-8-of-60-5dd1cd1f7404?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 7 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-7-of-60-8248474e6985?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 6 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-6-of-60-363d7c3e4841?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 5 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-5-of-60-01e6cb266132?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [60-Day Kafka 4 Learning Plan · Week 1 — Day 1 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-1-of-60-95bc335dec92?source=rss-48481e69a62f------2)
 - [Building a URL Shortener Design System with Spring Boot 4 and Redis](https://boottechnologies-ci.medium.com/building-a-url-shortener-design-system-with-spring-boot-4-and-redis-32e7d093bc06?source=rss-48481e69a62f------2)
 - [Automating Business Decisions with Spring Boot and Drools](https://boottechnologies-ci.medium.com/automating-business-decisions-with-spring-boot-and-drools-2cdae4b7a33d?source=rss-48481e69a62f------2)
-- [Redis Streams as a Message Broker with Spring Boot](https://boottechnologies-ci.medium.com/redis-streams-as-a-message-broker-with-spring-boot-0a902b45bdd0?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:

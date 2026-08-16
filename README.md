@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [60-Day Kafka 4 Learning Plan · Week 7 — Day 46 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-46-of-60-07d66ae577e7?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 7 — Day 45 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-45-of-60-42295f102dbb?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 7 — Day 44 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-44-of-60-9b8bf3e39e88?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 7 — Day 43 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-43-of-60-6cb2838b527a?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [60-Day Kafka 4 Learning Plan · Week 6 — Day 39 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-6-day-39-of-60-0d76659888d1?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 6 — Day 38 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-6-day-38-of-60-8adf4203b261?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 6 — Day 37 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-6-day-37-of-60-d8da9f0517ae?source=rss-48481e69a62f------2)
-- [60-Day Kafka 4 Learning Plan · Week 6 — Day 36 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-6-day-36-of-60-b86ec1d198a1?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:

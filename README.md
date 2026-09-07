@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Authorization Server in Action: Securing Modern Applications with OAuth 2.1](https://boottechnologies-ci.medium.com/spring-authorization-server-in-action-securing-modern-applications-with-oauth-2-1-08d76a230e5f?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 9 — Day 60 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-60-of-60-1f7dbb2d7066?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 9 — Day 59 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-58-of-60-fc4ca64995ec?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 9 — Day 58 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-58-of-60-6c1f0c0b4606?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [60-Day Kafka 4 Learning Plan · Week 8 — Day 54 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-54-of-60-fd69ce16e70a?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 8 — Day 53 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-53-of-60-33f5be6a6d03?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 8 — Day 52 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-52-of-60-f5ed514b2131?source=rss-48481e69a62f------2)
-- [60-Day Kafka 4 Learning Plan · Week 8 — Day 51 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-51-of-60-791c87224658?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:

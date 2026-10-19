@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Scan Before You Store: Securing Spring Boot File Uploads with ClamAV](https://boottechnologies-ci.medium.com/scan-before-you-store-securing-spring-boot-file-uploads-with-clamav-f59693b08c59?source=rss-48481e69a62f------2)
 - [Lab13 &lpar;Spring Boot/K8S&rpar;: Zero-Downtime Deployments with Kubernetes Rolling Updates](https://boottechnologies-ci.medium.com/lab13-spring-boot-k8s-zero-downtime-deployments-with-kubernetes-rolling-updates-dd7ab0f34ba2?source=rss-48481e69a62f------2)
 - [Lab12 &lpar;Spring Boot/K8S&rpar;: Exposing Spring Boot Applications with Kubernetes Ingress](https://boottechnologies-ci.medium.com/lab12-spring-boot-k8s-exposing-spring-boot-applications-with-kubernetes-ingress-3398587f0669?source=rss-48481e69a62f------2)
 - [Lab11 &lpar;Spring Boot/K8S&rpar;: Auto-Scaling Spring Boot Applications with Kubernetes HPA](https://boottechnologies-ci.medium.com/lab11-spring-boot-k8s-auto-scaling-spring-boot-applications-with-kubernetes-hpa-8de9b890fa37?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [60-Day Kafka 4 Learning Plan · Week 9 — Day 59 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-58-of-60-fc4ca64995ec?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 9 — Day 58 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-58-of-60-6c1f0c0b4606?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 9 — Day 57 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-57-of-60-49b33d1d9c6a?source=rss-48481e69a62f------2)
-- [60-Day Kafka 4 Learning Plan · Week 8 — Day 56 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-56-of-60-94bd57632464?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:

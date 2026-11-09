@@ -6,6 +6,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Real-Time Redis Leaderboard &amp; Ranking Solutions Using Spring Boot](https://boottechnologies-ci.medium.com/build-real-time-redis-leaderboard-ranking-solutions-using-spring-boot-05ab91c9666c?source=rss-48481e69a62f------2)
 - [Lab14 &lpar;Spring Boot/K8S&rpar;: Ensuring Application Availability with PodDisruptionBudgets](https://boottechnologies-ci.medium.com/lab14-spring-boot-k8s-ensuring-application-availability-with-poddisruptionbudgets-1547d39664ea?source=rss-48481e69a62f------2)
 - [Scan Before You Store: Securing Spring Boot File Uploads with ClamAV](https://boottechnologies-ci.medium.com/scan-before-you-store-securing-spring-boot-file-uploads-with-clamav-f59693b08c59?source=rss-48481e69a62f------2)
 - [Lab13 &lpar;Spring Boot/K8S&rpar;: Zero-Downtime Deployments with Kubernetes Rolling Updates](https://boottechnologies-ci.medium.com/lab13-spring-boot-k8s-zero-downtime-deployments-with-kubernetes-rolling-updates-dd7ab0f34ba2?source=rss-48481e69a62f------2)
@@ -15,7 +16,6 @@
 - [Spring Authorization Server in Action: Securing Modern Applications with OAuth 2.1](https://boottechnologies-ci.medium.com/spring-authorization-server-in-action-securing-modern-applications-with-oauth-2-1-08d76a230e5f?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 9 — Day 60 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-60-of-60-1f7dbb2d7066?source=rss-48481e69a62f------2)
 - [60-Day Kafka 4 Learning Plan · Week 9 — Day 59 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-58-of-60-fc4ca64995ec?source=rss-48481e69a62f------2)
-- [60-Day Kafka 4 Learning Plan · Week 9 — Day 58 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-58-of-60-6c1f0c0b4606?source=rss-48481e69a62f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌐 Connect with me:
